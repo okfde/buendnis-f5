@@ -1,0 +1,32 @@
+// Default colors
+$white: #ffffff;
+$black: #000000;
+
+// Color palettes
+
+$primary: #4f46e5;
+
+$gray-list: (
+  "50": #f9fafb,
+  "400": #9ca3af,
+  "500": #6b7280,
+  "600": #4b5563,
+  "900": #111827,
+);
+
+$gray-50: map-get($gray-list, "50");
+$gray-400: map-get($gray-list, "400");
+$gray-500: map-get($gray-list, "500");
+$gray-600: map-get($gray-list, "600");
+$gray-900: map-get($gray-list, "900");
+
+// Dynamic background and color classes creation
+
+@each $value in $gray-list {
+  .background-gray-#{nth($value, 1)} {
+    background-color: nth($value, 2) !important;
+  }
+  .color-gray-#{nth($value, 1)} {
+    color: nth($value, 2) !important;
+  }
+}
