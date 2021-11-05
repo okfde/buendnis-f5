@@ -302,6 +302,10 @@ footer {
   & * {
     color: $gray-400;
   }
+
+  & p {
+    margin-bottom: 0;
+  }
 }
 
 // Buttons
@@ -339,11 +343,16 @@ footer {
     display: flex;
     flex-wrap: wrap;
     gap: 3rem;
+    align-items: center;
+    justify-content: center;
   }
   .partners {
     padding: 1rem;
   }
   .rows {
     gap: 1rem;
+  }
+  .contact img.avatar {
+    max-width: 100%;
   }
 }
