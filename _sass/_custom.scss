@@ -71,7 +71,9 @@ h6 {
 // Paragraphs and Custom Font Sizes
 
 h1 span {
-  color: $primary;
+  
+  background-color: $primary; 
+  border-radius: 10px;
 }
 
 a {
