@@ -220,7 +220,11 @@ address {
   }
 
   & span {
-    color: $primary;
+    color: white;
+    background-color: $primary; 
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   & p {
