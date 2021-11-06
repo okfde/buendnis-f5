@@ -157,7 +157,13 @@ nav ul {
   & li:not(:last-of-type) {
     margin-right: 2rem;
   }
-
+  & highlight {
+    color: white;
+    background-color: $primary; 
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
   & a {
     color: $gray-500;
     text-decoration: none;
