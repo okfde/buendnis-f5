@@ -204,11 +204,13 @@ section {
   & h3 {
     text-align: center;
     margin-block: 3rem;
-    color: white;
-    background-color: $secondary; 
-    border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
+    & span {
+      color: white;
+      background-color: $secondary; 
+      border-radius: 10px;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
   }
   & p {
     color: $gray-500;
