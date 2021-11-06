@@ -157,7 +157,7 @@ nav ul {
   & li:not(:last-of-type) {
     margin-right: 2rem;
   }
-  & highlight {
+  .highlight {
     color: white;
     background-color: $primary; 
     border-radius: 10px;
