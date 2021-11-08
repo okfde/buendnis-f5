@@ -250,8 +250,7 @@ address {
 }
 
 .contact-highlight {
-  color: $secondary; 
-  font-weight: bold;
+  color: $secondary !important; 
 }
 .contact {
   & p {
