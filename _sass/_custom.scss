@@ -380,6 +380,9 @@ footer {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
   }
+  .hide-desktop {
+    display: none;
+  }
 }
 
 @media (max-width: 36rem) {
