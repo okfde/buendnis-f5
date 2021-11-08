@@ -258,7 +258,13 @@ address {
     color: $gray-900;
     font-weight: 500;
   }
-
+  & span {
+    color: white;
+    background-color: $secondary; 
+    border-radius: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
   & .org {
     color: $primary;
   }
