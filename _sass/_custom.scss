@@ -249,6 +249,10 @@ address {
   }
 }
 
+.contact-highlight {
+  border: 1px solid $secondary; 
+  
+}
 .contact {
   & p {
     margin-bottom: 0;
