@@ -332,7 +332,7 @@ footer {
 
 // Buttons
 
-.button {
+.button-start {
   display: inline-block;
   color: $white;
   background-color: $secondary;
@@ -347,11 +347,27 @@ footer {
     background-color: darken($secondary, 10%);
   }
 }
+.button {
+  display: inline-block;
+  position: absolute;
+  color: $white;
+  background-color: $secondary;
+  box-shadow: 0 0.125rem 0.125rem rgba(0, 0, 0, 0.05);
+  border-radius: 0.375rem;
+  padding: 1rem 1.5rem;
+  margin-top: 1rem;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
 
+  &:hover {
+    background-color: darken($secondary, 10%);
+  }
+}
 .button-wrap {
   height: 200px;
   position: relative;
 }
+
 // Media queries
 
 @media (min-width: 60rem) {
