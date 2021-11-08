@@ -359,13 +359,14 @@ footer {
   margin-top: 1rem;
   text-decoration: none;
   transition: 0.3s ease-in-out;
+  font-weight: bold;
 
   &:hover {
     background-color: darken($secondary, 10%);
   }
 }
 .button-wrap {
-  height: 100px;
+  margin: 60px;
   display: flex;
   justify-content: center;
   align-items: center;
