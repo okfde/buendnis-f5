@@ -364,8 +364,10 @@ footer {
   }
 }
 .button-wrap {
-  height: 200px;
-  position: relative;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 // Media queries
