@@ -259,11 +259,8 @@ address {
     font-weight: 500;
   }
   & span {
-    color: white;
-    background-color: $secondary; 
-    border-radius: 6px;
-    padding-left: 4px;
-    padding-right: 4px;
+    color: $secondary;
+    font-size: 13px;
   }
   & .org {
     color: $primary;
