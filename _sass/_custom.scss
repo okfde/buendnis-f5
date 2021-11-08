@@ -359,7 +359,6 @@ footer {
   margin-top: 1rem;
   text-decoration: none;
   transition: 0.3s ease-in-out;
-  font-size: clamp(1.5rem, #{"0.7vw + 1.3rem"}, 2rem);
 
   &:hover {
     background-color: darken($secondary, 10%);
