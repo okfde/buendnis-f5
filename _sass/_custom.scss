@@ -72,7 +72,7 @@ h6 {
 
 h1 span {
   color: white;
-  background-color: $primary; 
+  background-color: $primary;
   border-radius: 10px;
   padding-left: 10px;
   padding-right: 10px;
@@ -163,14 +163,17 @@ nav ul {
   .highlight {
     & a {
       color: white;
+      &:hover {
+        text-decoration: none;
+      }
     }
-    background-color: $secondary; 
+    background-color: #9337be;
     border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-inline: 8px;
+    padding-block: 4px;
   }
   & a {
-    color: $secondary;
+    color: $gray-500;
     text-decoration: none;
 
     &:hover {
@@ -210,7 +213,7 @@ section {
     color: $secondary;
     & span {
       color: white;
-      background-color: $secondary; 
+      background-color: $secondary;
       border-radius: 10px;
       padding: 10px;
     }
@@ -239,7 +242,7 @@ address {
 
   & span {
     color: white;
-    background-color: $primary; 
+    background-color: $primary;
     border-radius: 10px;
     padding-left: 5px;
     padding-right: 5px;
@@ -253,7 +256,7 @@ address {
 }
 
 .contact-highlight {
-  color: $secondary !important; 
+  color: $secondary !important;
 }
 .contact {
   & p {
