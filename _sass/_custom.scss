@@ -417,3 +417,53 @@ footer {
     max-width: 100%;
   }
 }
+
+.sponsors-nav{
+
+    margin: 30px 0 0 0;
+    display: block;
+    position: relative;
+    width: 100%;
+
+    ul {
+
+      display: inline-block;
+      float: left;
+      margin: 0;
+
+      li {
+
+        display: inline-block;
+        height: 60px;
+
+        margin-bottom: 20px;
+        &:last-of-type{
+          margin-bottom: 0;
+        }
+
+        &.cc-info{
+          text-align: center;
+          position: relative;
+          max-width: 300px;
+          margin-left: 0px;
+          margin-bottom: 50px;
+        }
+
+      }
+    }
+  }
+
+  .foot-links{
+    margin-top: 30px;
+    position: relative;
+    display: table;
+    width: 100%;
+
+    a{
+      display: block;
+      float: none;
+    }
+
+  }
+
+}
