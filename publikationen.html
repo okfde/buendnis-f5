@@ -1,0 +1,32 @@
+---
+layout: page
+title: Kontakt
+---
+
+<section>
+    <div class="wrapper">
+        <h2>Publikationen</h2>
+        <p>Hier finden sich alle Veröffentlichungen vom Bündnis F5 - sowohl Stellungnahmen als auch Artikel auf medialen Plattformen.</p>
+        <div class="rows">
+            <div class="pub">
+
+                {% if site.data.data %}
+                <ul>
+                    {% for pub in site.data.data %}
+                    {% if pub.featured == true %}
+
+                    <li>
+                        {% if pub.url %}<a class="highlight-pub" href="{{pub.url}}" target="_blank">{% endif %}{{ pub.name }}</a>
+
+                    </li>
+
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+                {% endif %}
+
+
+            </div>
+        </div>
+    </div>
+</section>

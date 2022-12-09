@@ -469,3 +469,17 @@ footer {
 .img-responsive-height {
   height: 150%; 
 }
+
+.pub {
+
+  & .highlight-pub {
+    color: $primary;
+
+  }
+  ul {
+    color: $primary;
+
+  }
+
+
+}
