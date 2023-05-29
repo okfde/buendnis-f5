@@ -112,10 +112,7 @@ p {
 
 // Header
 header {
-  padding-top: 2rem;
-  padding-right: 0px;
-  padding-bottom: 3.5rem;
-  padding-left: 0px;
+  padding: 2rem 0 2rem 0;
 
   & p {
     color: $gray-500;
@@ -416,70 +413,65 @@ footer {
   .contact img.avatar {
     max-width: 100%;
   }
+  nav ul {
+    & li:not(:last-of-type) {
+      margin-right: 1rem;
+    }
+  }  
 }
 
-.sponsors-nav{
-
+.sponsors-nav {
   margin: 30px 0 0 0;
   display: block;
   position: relative;
   width: 100%;
 
   ul {
-
     display: inline-block;
     float: left;
     margin: 0;
     margin-left: -82px;
 
     li {
-
       display: inline-block;
       height: 60px;
 
       margin-bottom: 20px;
-      &:last-of-type{
+      &:last-of-type {
         margin-bottom: 0;
       }
 
-      &.cc-info{
+      &.cc-info {
         text-align: center;
         position: relative;
         max-width: 300px;
         margin-left: 0px;
         margin-bottom: 50px;
       }
-
     }
   }
 }
 
-.foot-links{
+.foot-links {
   margin-top: 30px;
   position: relative;
   display: table;
   width: 100%;
 
-  a{
+  a {
     display: block;
     float: none;
   }
-
 }
 .img-responsive-height {
-  height: 150%; 
+  height: 150%;
 }
 
 .pub {
-
   & .highlight-pub {
     color: $primary;
-
   }
   ul {
     color: $primary;
-
   }
-
-
 }
