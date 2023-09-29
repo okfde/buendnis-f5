@@ -5,7 +5,7 @@ title:  Digitalgipfel - Ein staatlich organisiertes Lobbyfest
 subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 link: https://netzpolitik.org/2022/digitalgipfel-ein-staatlich-organisiertes-lobbyfest/
 date: 2022-09-12
-category: statement
+categories: lipsum
 authors: ["Lorem Ipsum", "Lipsum Dolor"]
 file:
     format: pdf

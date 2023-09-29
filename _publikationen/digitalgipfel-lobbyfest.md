@@ -5,7 +5,7 @@ title: Gemeinsame Positionspunkte und Forderungen
 subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 link: /assets/data/Positionspapier F5.pdf
 date: 2022-05-10
-category: statement
+categories: statement
 authors: ["Lorem Ipsum", "Lipsum Dolor"]
 file:
     format: pdf
