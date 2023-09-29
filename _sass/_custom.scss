@@ -23,7 +23,8 @@ body {
   flex-direction: column;
 }
 
-main, section {
+main,
+section {
   flex-grow: 1;
 }
 
@@ -255,9 +256,204 @@ address {
   }
 }
 
+.publication {
+  letter-spacing: -0.015rem;
+
+  &-title {
+    font-weight: 700;
+    font-size: 2.5rem;
+    letter-spacing: -0.035rem;
+    line-height: 3rem;
+    margin-block: 0.5rem;
+
+    & a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &-metadata {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-block: 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  &-items {
+    & :not(:last-child) {
+      margin-right: 1.5rem;
+    }
+  }
+
+  &-details {
+    & :not(:last-child) {
+      margin-left: 1rem;
+    }
+  }
+
+  &-download {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-weight: 600;
+    color: $white;
+    background-color: $primary;
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+
+    &:hover {
+      background-color: darken($primary, 10%);
+    }
+  }
+
+  &-rss {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-weight: 600;
+    border: 2px solid rgba(230, 230, 230, 1);
+    border-radius: 0.5rem;
+    padding: 0.75rem 1rem;
+    text-decoration: none;
+
+    &:hover {
+      background-color: transparent;
+      border: 2px solid $gray-400;
+    }
+  }
+
+  &-subtitle {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: $black;
+  }
+
+  &-date {
+    font-weight: 600;
+    color: $black;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+  }
+
+  &-author {
+    font-size: 1rem;
+    margin-right: 1rem;
+    color: $black;
+  }
+
+  &-category {
+    color: rgba(49, 46, 129, 1);
+    background-color: rgba(238, 242, 255, 1);
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-left: 1rem;
+    border-radius: 1rem;
+    padding: 0.35rem 0.75rem;
+  }
+
+  &-content {
+    & p {
+      font-size: 1.2rem;
+      color: $black;
+    }
+  }
+
+  &-extra {
+    & strong {
+      margin-right: 1.5rem;
+    }
+  }
+
+  & hr {
+    max-width: 5%;
+    margin-bottom: 1rem;
+
+    &.full-hr {
+      max-width: 100%;
+    }
+  }
+}
+
+.publication-list {
+  letter-spacing: -0.015rem;
+  border-left: 0.5rem solid rgba(33, 0, 252, 1);
+  padding-left: 1rem;
+  margin-block: 2rem;
+
+  & .publication-title {
+    font-weight: 700;
+    font-size: 2.5rem;
+    letter-spacing: -0.035rem;
+    margin-block: 0;
+
+    & a {
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  & .publication-subtitle {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: $black;
+  }
+
+  & .publication-summary {
+    display: block;
+    font-size: 1.15rem;
+    color: $black;
+    padding-bottom: 1rem;
+  }
+
+  & .publication-date {
+    font-weight: 600;
+    color: $black;
+    text-transform: uppercase;
+    margin-bottom: 0.25rem;
+  }
+
+  & .publication-author {
+    font-size: 1rem;
+    margin-right: 1rem;
+    color: $black;
+  }
+
+  & .publication-category {
+    color: rgba(49, 46, 129, 1);
+    background-color: rgba(238, 242, 255, 1);
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-left: 1rem;
+    border-radius: 1rem;
+    padding: 0.35rem 0.75rem;
+  }
+
+  & hr {
+    max-width: 5%;
+    margin-bottom: 1rem;
+
+    &.full-hr {
+      max-width: 100%;
+    }
+  }
+}
+
+.light-hr {
+  color: rgba(230, 230, 230, 1);
+}
+
 .contact-highlight {
   color: $secondary !important;
 }
+
 .contact {
   & p {
     margin-bottom: 0;
@@ -430,28 +626,30 @@ footer {
     & li:not(:last-of-type) {
       margin-right: 1rem;
     }
-  }  
-}
-
-.foot-links {
-  margin-top: 30px;
-  position: relative;
-  display: table;
-  width: 100%;
-
-  a {
-    display: block;
-    float: none;
   }
-}
-
-.pub {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 2rem;
-
-  & .highlight-pub {
-    color: $primary;
+  .publication {
+    letter-spacing: -0.015rem;
+  
+    &-title {
+      font-weight: 700;
+      font-size: 2.25rem;
+      letter-spacing: -0.035rem;
+      line-height: 2.5rem;
+      margin-block: 0.5rem;
+    }
+  
+    &-items {
+      & :not(:last-child) {
+        margin-right: 1.5rem;
+        margin-bottom: 1.5rem;
+      }
+    }
+  
+    &-details {
+      & :not(:last-child) {
+        margin-left: 0;
+        margin-right: .25rem;
+      }
+    }
   }
 }

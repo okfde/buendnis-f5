@@ -8,21 +8,20 @@ title: Publikationen
     <div class="wrapper">
         <h2>Publikationen</h2>
         <p>Hier finden sich alle Veröffentlichungen vom Bündnis F5 - sowohl Stellungnahmen als auch Artikel auf medialen Plattformen.</p>
-        <div class="rows">
-            <div class="pub">
-                {% if site.data.data %}
-                    {% for pub in site.data.data %}
-                    {% if pub.featured == true %}
-                    <article>
-                        <div class="card">
-                            <p>Aufgestellt am: {{ pub.date }}</p>
-                            {% if pub.url %}<a class="highlight-pub" href="{{ pub.url }}" target="_blank">{% endif %}{{ pub.name }}</a>
-                        </div>
-                    </article>
-                    {% endif %}
-                    {% endfor %}
-                {% endif %}
-            </div>
-        </div>
+        {% assign publikationen = site.publikationen | sort: 'date' | reverse %}
+        {% for publikation in publikationen %}
+        <article class="publication-list">
+            <p class="publication-date">{{ publikation.date | date: "%-d %B %Y" }}<span class="publication-category">{{ publikation.category }}</span></p>
+            <h1 class="publication-title"><a href="{{ publikation.url }}">{{ publikation.title }}</a></h1>
+            {% if publikation.subtitle %}<p class="publication-subtitle">{{ publikation.subtitle }}</p>{% endif %}
+            <div class="publication-summary">{{ publikation.content | truncatewords:40 | strip_html }}</div>
+            {% if publikation.authors %}
+            <hr>
+            {% assign authors =  publikation.authors | join: ','  | split: ',' %}
+            <p class="publication-authors">{% for author in authors %}<span class="publication-author">{{ author }}</span>{% endfor %}</p>
+            {% endif %}
+        </article>
+        <hr class="light-hr">
+        {% endfor %}
     </div>
 </section>
