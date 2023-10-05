@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="de">
+{% include head.html %}
+
+<body>
+    {% include hero.html %}
+    <section>
+        <div class="wrapper">
+            <article class="publication">
+                <p class="publication-date">{{ page.date | date: "%-d %B %Y" }}<span class="publication-category">{{ page.categories }}</span></p>
+                <h1 class="publication-title">{{ page.title }}</h1>
+                {% if page.subtitle %}<p class="publication-subtitle">{{ page.subtitle }}</p>{% endif %}
+                {% if page.authors %}
+                {% assign authors =  page.authors | join: ','  | split: ',' %}
+                <p class="publication-authors">{% for author in authors %}<span class="publication-author">{{ author }}</span>{% endfor %}</p>
+                {% endif %}
+                <hr class="full-hr">
+                <div class="publication-metadata">
+                    <div class="publication-items">
+                        {% if page.file %}
+                        <a class="publication-download" href="{{ page.file.url }}" download><img src="{{ site.baseurl}}/assets/images/icons/download.svg" alt="download icon">{{ page.file.format | upcase }} herunterladen</a>
+                        {% endif %}
+                        {% if page.rss %}
+                        <a class="publication-rss" href="{{ page.rss }}"><img src="{{ site.baseurl}}/assets/images/icons/rss.svg" alt="rss icon"> RSS</a>
+                        {% endif %}
+                    </div>
+                    <div class="publication-details">
+                        {% if page.pages %}
+                        <span><strong>Seiten:</strong> {{ page.pages }}</span>
+                        {% endif %}
+                        {% if page.size %}
+                        <span><strong>Größe:</strong> {{ page.size }}</span>
+                        {% endif %}
+                        {% if page.license %}
+                        <span><strong>Lizenz:</strong> <a href="{{ page.license.url }}" target="_blank" rel="noopener noreferrer">{{ page.license.type }}</a></span>
+                        {% endif %}
+                    </div>
+                </div>
+                <hr class="full-hr">
+                <div class="publication-content">{{ content }}</div>
+                {% if page.extra %}
+                <p class="publication-extra"><strong>Weitere Links:</strong> <a href="{{ page.extra }}" target="_blank" rel="noopener noreferrer">{{ page.extra }}</a></p>
+                {% endif %}
+            </article>
+            <hr class="light-hr">
+        </div>
+    </section>
+    {% include footer.html %}
+</body>
+
+</html>

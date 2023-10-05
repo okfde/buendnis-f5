@@ -4,6 +4,12 @@ description: >-
   Gemeinwohl statt Tech Konzerne in den Mittelpunkt der Digitalpolitik stellen
 baseurl: ""
 url: ""
+
+collections:
+  publikationen:
+    output: true
+    permalink: /:collection/:name
+
 twitter_username:
 github_username:
 # Exclude from processing.
