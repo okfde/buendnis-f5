@@ -1,26 +1,26 @@
 ---
 published: true
 layout: publikation
-title:  Digitalgipfel - Ein staatlich organisiertes Lobbyfest
-subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-link: https://netzpolitik.org/2022/digitalgipfel-ein-staatlich-organisiertes-lobbyfest/
+title:  Digitalgipfel der Bundesregierung - Ein staatlich organisiertes Lobbyfest
+subtitle: 
+link: assets/data/F5_Digitalgipfel2022.pdf
 date: 2022-09-12
-categories: lipsum
-authors: ["Lorem Ipsum", "Lipsum Dolor"]
+categories: Positionspapier
+authors: ["Bündnis F5"]
 file:
     format: pdf
-    url: https://netzpolitik.org/2022/digitalgipfel-ein-staatlich-organisiertes-lobbyfest/
+    url: assets/data/F5_Digitalgipfel2022.pdf
 rss: https://example.com
 pages: 3
-size: 3MB
+size: 129KB
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
 extra: https://netzpolitik.org/2022/digitalgipfel-ein-staatlich-organisiertes-lobbyfest/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In lacinia metus blandit metus consequat porttitor. Pellentesque finibus, ante sit amet tristique tempor, ex ante viverra lacus, id lacinia lectus sem quis quam. Suspendisse neque ante, dignissim sit amet sodales nec, congue non diam. Praesent ut bibendum felis. Donec ut velit ligula. Cras sit amet pharetra diam, eu sagittis orci. Phasellus ac venenatis ipsum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam tincidunt lectus ac est ultricies sagittis.
+Wie schon bei der Digitalstrategie war auch auf dem Digitalgipfel der Bundesregierung die Zivilgesellschaft nicht eingebunden. Dabei könnte die Digitalpolitik insgesamt so viel besser sein, wenn die Zivilgesellschaft einbezogen würde. 
 
-Donec sed hendrerit mi. Ut eget ligula eu ipsum rhoncus semper et ac dolor. Sed ut pretium tortor, et pharetra ante. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lacinia viverra lorem, ut cursus ante placerat eu. Nunc et arcu sit amet magna rhoncus viverra. Aliquam ac orci et felis mollis tempor. Fusce tincidunt ac mi et elementum. Vestibulum id ultrices urna. Duis condimentum rutrum dolor. Sed faucibus enim vitae sapien tempus, ut iaculis tellus laoreet. In a ipsum faucibus, semper lacus sit amet, euismod ante. Quisque eget tortor urna. Nulla id felis in metus facilisis ornare sit amet eget sem. Sed at feugiat enim. Nulla facilisi.
+Heute endet der Digital-Gipfel der Bundesregierung. Titel: „Digitalisierung betrifft uns alle – Unternehmen wie Bürgerinnen und Bürger, Wissenschaft wie Gesellschaft.“ Doch „die Gesellschaft“ spricht gar nicht mit. Schon bei der Digitalstrategie war es ein Problem, dass die Zivilgesellschaft nicht eingebunden war. Die Ampel gelobte, alles besser zu machen. Der Digital-Gipfel zeigt, dass das ein Lippenbekenntnis war. Die Regierung behandelt die digitalpolitische Zivilgesellschaft wie es die GroKo tat: Gerne mal reden – aber strukturelle Einbindung, gleichberechtigte Teilnahme, Mitgestaltung? Fehlanzeige.
 
-Pellentesque est nunc, commodo at tortor vitae, maximus feugiat ligula. Morbi elit turpis, faucibus vel felis sit amet, sagittis ornare augue. Ut iaculis lorem nec felis vehicula rhoncus. Fusce non nisl sit amet risus rhoncus dictum a tempor felis. Sed ac urna nulla. Suspendisse potenti. Duis tincidunt, elit quis volutpat gravida, purus leo tempor nisi, eget iaculis urna risus vitae eros. Suspendisse non risus commodo augue facilisis placerat. Nunc est nisi, feugiat at massa ullamcorper, varius sodales risus. Morbi malesuada elit ullamcorper ante dapibus fermentum. Integer sit amet sapien est. Vivamus augue nisi, fermentum a tincidunt ac, vestibulum sed erat. Sed non nibh et dui faucibus eleifend non vel neque. Quisque sit amet ex nec nulla viverra porta eget convallis urna. 
+Wir fordern, dass dieses Versprechen endlich eingelöst wird: Für jedes Treffen, jede Anhörung, jedes Panel, zu dem ein Unternehmen oder Wirtschaftsverband eingeladen wird, muss auch eine Einladung an die Zivilgesellschaft gehen. Gerade in Ministerien sind regelmäßige Austauschrunden zwischen Zivilgesellschaft und Exekutive unverzichtbar, bei Gesetzesvorhaben muss es Best Practice werden, sich mit der gemeinwohlorientierten Praxis noch vor dem Regierungsentwurf direkt auszutauschen. Und wenn bei diesem Digital-Gipfel der Bitkom Verband praktisch als Co-Veranstalter auftritt, erwarten wir das auch beim nächsten für die Zivilgesellschaft. F5 steht dafür gerne bereit.
