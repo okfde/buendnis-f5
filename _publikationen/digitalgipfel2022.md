@@ -1,8 +1,8 @@
 ---
 published: true
 layout: publikation
-title:  Digitalgipfel der Bundesregierung - Ein staatlich organisiertes Lobbyfest
-subtitle: 
+title: Digitalgipfel der Bundesregierung
+subtitle: ein staatlich organisiertes Lobbyfest
 link: assets/data/F5_Digitalgipfel2022.pdf
 date: 2022-12-09
 categories: Positionspapier
