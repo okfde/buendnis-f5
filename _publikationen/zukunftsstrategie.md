@@ -3,13 +3,13 @@ published: true
 layout: publikation
 title: Zukunftsstrategie Forschung und Innovation
 subtitle: Stellungnahme zur Konsultation
-link: assets/data/2022-11-17_F5_Stellungnahme Zukunftsstrategie.pdf
+link: /assets/data/2022-11-17_F5_Stellungnahme Zukunftsstrategie.pdf
 date: 2022-11-17
 categories: Stellungnahme
 authors: ["Bündnis F5"]
 file:
     format: pdf
-    url: assets/data/2022-11-17_F5_Stellungnahme Zukunftsstrategie.pdf
+    url: /assets/data/2022-11-17_F5_Stellungnahme Zukunftsstrategie.pdf
 rss: https://example.com
 pages: 9
 size: 265KB
