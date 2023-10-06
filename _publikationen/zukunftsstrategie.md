@@ -1,8 +1,8 @@
 ---
 published: true
 layout: publikation
-title: Zukunftsstrategie Forschung und Innovation
-subtitle: Stellungnahme zur Konsultation
+title: Stellungnahme zur Zukunftsstrategie Forschung und Innovation
+subtitle: online Konsultation des BMBF
 link: /assets/data/2022-11-17_F5_Stellungnahme Zukunftsstrategie.pdf
 date: 2022-11-17
 categories: Stellungnahme
