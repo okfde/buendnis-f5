@@ -2,7 +2,7 @@
 published: true
 layout: publikation
 title: Stellungnahme zur Datenstrategie der Bundesregierung
-subtitle: Stellungnahme zur Veröffentlichung
+subtitle:  
 link: /assets/data/2023-09-12_F5_Stellungnahme_Datenstrategie.pdf
 date: 2023-09-12
 categories: Stellungnahme
