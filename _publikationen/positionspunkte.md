@@ -6,7 +6,7 @@ subtitle:
 link: /assets/data/Positionspapier F5.pdf
 date: 2021-02-26
 categories: Positionspapier
-authors: ["Bündnis F5"]
+authors: ["Henriette Litta","Christian Mihr","Matthias Spielkamp","Malte Spitz","Abraham Taherivand"]
 file:
     format: pdf
     url: /assets/data/Positionspapier F5.pdf
