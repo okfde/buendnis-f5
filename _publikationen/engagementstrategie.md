@@ -3,13 +3,13 @@ published: true
 layout: publikation
 title: Engagementstrategie des Bundes
 subtitle: Stellungnahme mit Fokus auf die digitalpolitische Zivilgesellschaft
-link: assets/data/2023-06-08_Engagementstrategie_F5.pdf
+link: /assets/data/2023-06-08_Engagementstrategie_F5.pdf
 date: 2023-06-08
 categories: Stellungnahme
 authors: ["Bündnis F5"]
 file:
     format: pdf
-    url: assets/data/2023-06-08_Engagementstrategie_F5.pdf
+    url: /assets/data/2023-06-08_Engagementstrategie_F5.pdf
 rss: https://example.com
 pages: 4
 size: 41KB
