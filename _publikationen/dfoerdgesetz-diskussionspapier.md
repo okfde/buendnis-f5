@@ -1,7 +1,7 @@
 ---
 published: true
 layout: publikation
-title: Stellungnahme zum Demokratiefördergesetz
+title: Stellungnahme zum Demokratiefördergesetz [1]
 subtitle: Kommentierung des Diskussionspapiers von BMFSFJ und BMI
 link: assets/data/2022-03-21_F5_Stellungnahme Diskussionspaper DFördG.pdf
 date: 2022-03-21
