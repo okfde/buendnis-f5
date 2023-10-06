@@ -1,8 +1,8 @@
 ---
 published: true
 layout: publikation
-title: Engagementstrategie des Bundes
-subtitle: Stellungnahme mit Fokus auf die digitalpolitische Zivilgesellschaft
+title: Stellungnahme zur Engagementstrategie des Bundes
+subtitle: 
 link: /assets/data/2023-06-08_Engagementstrategie_F5.pdf
 date: 2023-06-08
 categories: Stellungnahme
