@@ -3,13 +3,13 @@ published: true
 layout: publikation
 title: Stellungnahme zum Demokratiefördergesetz [2]
 subtitle: Kommentierung des Referentenentwurfs von BMFSFJ und BMI
-link: assets/data/2022-11-01_F5_Stellungnahme ReferentenE DFördG.pdf
+link: /assets/data/2022-11-01_F5_Stellungnahme ReferentenE DFördG.pdf
 date: 2022-11-01
 categories: Stellungnahme
 authors: ["Bündnis F5"]
 file:
     format: pdf
-    url: assets/data/2022-11-01_F5_Stellungnahme ReferentenE DFördG.pdf
+    url: /assets/data/2022-11-01_F5_Stellungnahme ReferentenE DFördG.pdf
 rss: https://example.com
 pages: 4
 size: 292KB
