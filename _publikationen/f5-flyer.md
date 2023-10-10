@@ -5,7 +5,7 @@ title: Refresh Digitalpolitik - der F5 Flyer
 subtitle: 
 link: 
 date: 2023-06-08
-categories: sonstiges
+categories: Sonstiges
 authors: ["Bündnis F5"]
 file:
     format: pdf

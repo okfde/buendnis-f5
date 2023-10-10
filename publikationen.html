@@ -39,11 +39,14 @@ title: Publikationen
                 </summary>
                 <ul>
                     <li><button class="button-filter categorized" onclick="changeType('all_types')">Alle</button></li>
-                    {% for publikation in publikationen %}
-                    {% assign categories = publikation.categories | uniq | sort %}
-                    {% for category in categories %}
-                        <li><button class="button-filter" id="{{ category }}" onclick="changeType('{{ category}}')">{{ category | capitalize }}</button></li>
+                    {% assign categories = "" %}
+                    {% for publikation in site.publikationen %}
+                    {% assign category = publikation.categories %}
+                    {% assign categories = categories | concat: category %}
                     {% endfor %}
+                    {% assign categories = categories | uniq | sort %}
+                    {% for category in categories %}
+                        <li><button class="button-filter" id="{{ category }}" onclick="changeType('{{ category }}')">{{ category | capitalize }}</button></li>
                     {% endfor %}
                 </ul>
             </details>
