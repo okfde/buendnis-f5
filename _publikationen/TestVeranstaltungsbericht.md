@@ -18,3 +18,5 @@ extra: https://www.bundesregierung.de/breg-de/themen/digitaler-aufbruch/datenstr
 ---
 
 Dies ist ein Test für das Layout der zukünftigen Veranstaltungsberichte des Bündnis F5. 
+
+![](/assets/images/testveranstaltungsbericht.JPG)
