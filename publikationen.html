@@ -13,9 +13,9 @@ title: Publikationen
         {% assign publikationen = site.publikationen | sort: 'date' | reverse %}
 
         <div id="year-filter">
-            <details class="dropdown">
-                <summary role="button">
-                    Nach Jahr
+            <details id="yearFilter" class="dropdown">
+                <summary id="yearCurrent" role="button">
+                    Jahr
                 </summary>
                 <ul>
                     <li><button class="button-filter filtered" onclick="changeYear('year-all')">Alle</button></li>
@@ -26,27 +26,28 @@ title: Publikationen
                     {% endfor %}
                     {% assign years = years | uniq | sort %}
                     {% for year in years %}
-                        <li><button class="button-filter" onclick="changeYear('year-{{ year }}')">{{ year }}</button></li>
+                    <li><button class="button-filter" onclick="changeYear('year-{{ year }}')">{{ year }}</button></li>
                     {% endfor %}
                 </ul>
             </details>
         </div>
 
         <div id="publication-filter">
-            <details class="dropdown">
-                <summary role="button">
-                    Nach Kategorie
+            <details id="categoryFilter" class="dropdown">
+                <summary id="categoryCurrent" role="button">
+                    Kategorie
                 </summary>
                 <ul>
                     <li><button class="button-filter categorized" onclick="changeType('all_types')">Alle</button></li>
-                    {% assign categories = "" %}
+                    {% assign categories = "" | split: ", " %}
                     {% for publikation in site.publikationen %}
                     {% assign category = publikation.categories %}
                     {% assign categories = categories | concat: category %}
                     {% endfor %}
                     {% assign categories = categories | uniq | sort %}
                     {% for category in categories %}
-                        <li><button class="button-filter" id="{{ category }}" onclick="changeType('{{ category }}')">{{ category | capitalize }}</button></li>
+                    <li><button class="button-filter" id="{{ category }}" onclick="changeType('{{ category }}')">{{
+                            category | capitalize }}</button></li>
                     {% endfor %}
                 </ul>
             </details>
@@ -56,9 +57,28 @@ title: Publikationen
         <div class="publication-item year-all all_types {{ publikation.categories }} year-{{ publikation.date | date: '%Y' }}"
             data-event-date="{{ publikation.date | date: '%Y-%m-%d' }}">
             <article class="publication-list">
-                <p class="publication-date">{{ publikation.date | date: "%-d %B %Y" }}<span
-                        class="publication-category">{{ publikation.categories }}</span></p>
-                <h1 class="publication-title"><a href="{{ publikation.url }}">{{ publikation.title }}</a></h1>
+                <p class="publication-date">
+                    <time datetime="{{ publikation.date }}">
+                        {{ publikation.date | date: "%-d" }}{% assign m = publikation.date | date: "%-m" %}
+                        {% case m %}
+                        {% when '1' %}Januar
+                        {% when '2' %}Februar
+                        {% when '3' %}M&auml;rz
+                        {% when '4' %}April
+                        {% when '5' %}Mai
+                        {% when '6' %}Juni
+                        {% when '7' %}Juli
+                        {% when '8' %}August
+                        {% when '9' %}September
+                        {% when '10' %}Oktober
+                        {% when '11' %}November
+                        {% when '12' %}Dezember
+                        {% endcase %}
+                        {{ publikation.date | date: "%Y" }}
+                    </time>
+                    <span class="publication-category">{{ publikation.categories }}</span>
+                </p>
+                <h1 class="publication-title {% unless publikation.subtitle %}mb-2{% endunless %}"><a href="{{ publikation.url }}">{{ publikation.title }}</a></h1>
                 {% if publikation.subtitle %}<p class="publication-subtitle">{{ publikation.subtitle }}</p>{% endif
                 %}
                 <div class="publication-summary">{{ publikation.content | truncatewords:40 | strip_html }}</div>
@@ -92,8 +112,8 @@ title: Publikationen
 
             function update() {
                 document
-                .querySelectorAll(".publication-item")
-                .forEach((item) => {
+                    .querySelectorAll(".publication-item")
+                    .forEach((item) => {
                         if (item.classList.contains(currentType)) {
                             item.classList.add("visible");
                         } else {
@@ -111,19 +131,25 @@ title: Publikationen
 
         <script>
             // Function to add selected class to the selected type filter
+            var categoryDetail =  document.getElementById("categoryFilter");
+            var categoryCurrent =  document.getElementById("categoryCurrent");
             var btnContainer = document.getElementById("publication-filter");
             var btns = btnContainer.getElementsByClassName("button-filter");
             for (var i = 0; i < btns.length; i++) {
-            btns[i].addEventListener("click", function () {
-                var current = document.getElementsByClassName(" categorized");
-                current[0].className = current[0].className.replace(" categorized", "");
-                this.className += " categorized";
-            });
+                btns[i].addEventListener("click", function () {
+                    var current = document.getElementsByClassName(" categorized");
+                    current[0].className = current[0].className.replace(" categorized", "");
+                    this.className += " categorized";
+                    categoryDetail.removeAttribute('open');
+                    //categoryCurrent.innerText = this.innerText;
+                });
             }
         </script>
 
         <script>
             // Function to add selected class to the selected year filter
+            var yearDetail =  document.getElementById("yearFilter");
+            var yearCurrent =  document.getElementById("yearCurrent");
             var yearContainer = document.getElementById("year-filter");
             var years = yearContainer.getElementsByClassName("button-filter");
             for (var j = 0; j < years.length; j++) {
@@ -134,6 +160,26 @@ title: Publikationen
                         ""
                     );
                     this.className += " filtered";
+                    yearDetail.removeAttribute("open");
+                    //yearCurrent.innerText = this.innerText;
+                });
+            }
+        </script>
+
+        <script>
+            // Function to close details if another summary is clicked
+            const summaries = document.querySelectorAll('summary');
+
+            summaries.forEach((summary) => {
+                summary.addEventListener('click', closeOpenedDetails);
+            });
+
+            function closeOpenedDetails() {
+                summaries.forEach((summary) => {
+                    let detail = summary.parentNode;
+                    if (detail != this.parentNode) {
+                        detail.removeAttribute('open');
+                    }
                 });
             }
         </script>
