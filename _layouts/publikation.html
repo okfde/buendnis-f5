@@ -59,7 +59,9 @@
                 <hr class="full-hr">
                 <div class="publication-content">{{ content }}</div>
                 {% if page.extra %}
-                <p class="publication-extra"><strong>Weitere Links:</strong> <a href="{{ page.extra }}" target="_blank" rel="noopener noreferrer">{{ page.extra }}</a></p>
+                {% assign extras =  page.extra | join: ','  | split: ',' %}
+                <p class="publication-extra"><strong>Weitere Links:</strong></p>
+                {% for extra in extras %}{{ extra | markdownify }}{% endfor %}
                 {% endif %}
             </article>
             <hr class="light-hr">
