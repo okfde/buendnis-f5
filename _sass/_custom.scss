@@ -115,7 +115,7 @@ p {
 }
 
 .mb-2 {
-  margin-bottom: .75rem !important;
+  margin-bottom: 0.75rem !important;
 }
 
 // Header
@@ -325,7 +325,7 @@ address {
   width: 1rem;
   top: 3px;
   right: -7px;
-  margin-right: .25rem;
+  margin-right: 0.25rem;
   position: relative;
 }
 
@@ -334,7 +334,7 @@ address {
   width: 1rem;
   top: 2px;
   right: -7px;
-  margin-right: .25rem;
+  margin-right: 0.25rem;
   position: relative;
 }
 
@@ -469,7 +469,7 @@ address {
 
   &-extra {
     margin-top: 2rem;
-    
+
     & strong {
       margin-right: 1.5rem;
     }
@@ -642,15 +642,36 @@ footer {
   align-items: end;
   max-width: 85rem;
   width: 100%;
-  margin: 0 auto;
+  margin: 2rem auto 0 auto;
   padding: 2rem clamp(1rem, 4vw, 2rem) 2rem;
+  background-color: $gray-100;
 
   & * {
-    color: $gray-400;
+    color: $gray-600;
   }
 
   & p {
     margin-bottom: 0;
+  }
+
+  & #newsletter {
+    margin-bottom: 2rem;
+
+    & * {
+      color: #000;
+      line-height: 1.35;
+    }
+
+    & form {
+      margin-block: 1rem;
+
+      & input {
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+        border: 2px solid #e6e6e6;
+        border-radius: .25rem;
+      }
+    }
   }
 }
 
@@ -695,12 +716,19 @@ footer {
   align-items: center;
 }
 .button-newsletter {
-    background: #2100fc;
-    border: 0px solid #2100FC;
-    border-radius: 5px;
-    color: #ffffff;
-}
+  background: #2100fc;
+  padding: 0.6rem 1rem;
+  border-radius: 0.25rem;
+  color: #ffffff !important;
+  font-size: 1rem;
+  border: none;
+  transition: .25s ease-in-out;
+  cursor: pointer;
 
+  &:hover {
+    background-color: darken(#2100fc, 10%);
+  }
+}
 
 // Media queries
 

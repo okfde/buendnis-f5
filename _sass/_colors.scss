@@ -11,6 +11,7 @@ $secondary: #2100fc;
 
 $gray-list: (
   "50": #f9fafb,
+  "100": #f3f4f6,
   "400": #9ca3af,
   "500": #6b7280,
   "600": #4b5563,
@@ -18,6 +19,7 @@ $gray-list: (
 );
 
 $gray-50: map-get($gray-list, "50");
+$gray-100: map-get($gray-list, "100");
 $gray-400: map-get($gray-list, "400");
 $gray-500: map-get($gray-list, "500");
 $gray-600: map-get($gray-list, "600");
