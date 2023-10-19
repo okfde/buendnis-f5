@@ -3,7 +3,7 @@ published: true
 layout: publikation
 title: Refresh Digitalpolitik - der F5 Flyer
 subtitle: 
-link: assets/data/f5-Flyer-2023-final.pdf
+link: /assets/data/f5-Flyer-2023-final.pdf
 date: 2023-06-08
 categories: Sonstiges
 authors: ["Bündnis F5"]
