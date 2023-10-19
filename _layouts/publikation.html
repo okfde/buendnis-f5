@@ -7,7 +7,27 @@
     <section>
         <div class="wrapper">
             <article class="publication">
-                <p class="publication-date">{{ page.date | date: "%-d %B %Y" }}<span class="publication-category">{{ page.categories }}</span></p>
+                <p class="publication-date">
+                    <time datetime="{{ page.date }}">
+                        {{ page.date | date: "%-d" }}
+                        {% assign m = page.date | date: "%-m" %}
+                        {% case m %}
+                        {% when '1' %}Januar
+                        {% when '2' %}Februar
+                        {% when '3' %}M&auml;rz
+                        {% when '4' %}April
+                        {% when '5' %}Mai
+                        {% when '6' %}Juni
+                        {% when '7' %}Juli
+                        {% when '8' %}August
+                        {% when '9' %}September
+                        {% when '10' %}Oktober
+                        {% when '11' %}November
+                        {% when '12' %}Dezember
+                        {% endcase %}
+                        {{ page.date | date: "%Y" }}
+                    </time>
+                <span class="publication-category">{{ page.categories }}</span></p>
                 <h1 class="publication-title">{{ page.title }}</h1>
                 {% if page.subtitle %}<p class="publication-subtitle">{{ page.subtitle }}</p>{% endif %}
                 {% if page.authors %}
@@ -39,7 +59,9 @@
                 <hr class="full-hr">
                 <div class="publication-content">{{ content }}</div>
                 {% if page.extra %}
-                <p class="publication-extra"><strong>Weitere Links:</strong> <a href="{{ page.extra }}" target="_blank" rel="noopener noreferrer">{{ page.extra }}</a></p>
+                {% assign extras =  page.extra | join: ','  | split: ',' %}
+                <p class="publication-extra"><strong>Weitere Links:</strong></p>
+                {% for extra in extras %}{{ extra | markdownify }}{% endfor %}
                 {% endif %}
             </article>
             <hr class="light-hr">
