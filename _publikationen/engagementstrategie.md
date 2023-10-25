@@ -10,7 +10,7 @@ authors: ["Bündnis F5"]
 file:
     format: pdf
     url: /assets/data/2023-06-08_Engagementstrategie_F5.pdf
-rss: https://example.com
+rss:
 pages: 4
 size: 41KB
 license:
