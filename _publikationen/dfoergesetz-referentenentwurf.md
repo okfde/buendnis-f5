@@ -10,7 +10,7 @@ authors: ["Bündnis F5"]
 file:
     format: pdf
     url: /assets/data/2022-11-01_F5_Stellungnahme ReferentenE DFördG.pdf
-rss: https://example.com
+rss:
 pages: 4
 size: 292KB
 license:
