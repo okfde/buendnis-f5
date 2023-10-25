@@ -10,7 +10,7 @@ authors: ["Bündnis F5"]
 file:
     format: pdf
     url: /assets/data/F5_Digitalgipfel2022.pdf
-rss: https://example.com
+rss:
 pages: 3
 size: 129KB
 license:
