@@ -10,7 +10,7 @@ authors: ["Bündnis F5"]
 file:
     format: pdf
     url: /assets/data/2023-09-12_F5_Stellungnahme_Datenstrategie.pdf
-rss: https://example.com
+rss:
 pages: 3
 size: 104KB
 license:
