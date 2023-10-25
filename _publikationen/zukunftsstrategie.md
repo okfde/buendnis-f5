@@ -10,7 +10,7 @@ authors: ["Bündnis F5"]
 file:
     format: pdf
     url: /assets/data/2022-11-17_F5_Stellungnahme Zukunftsstrategie.pdf
-rss: https://example.com
+rss:
 pages: 9
 size: 265KB
 license:
