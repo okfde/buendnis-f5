@@ -10,7 +10,7 @@ authors: ["Henriette Litta","Christian Mihr","Matthias Spielkamp","Malte Spitz",
 file:
     format: pdf
     url: /assets/data/Positionspapier F5.pdf
-rss: https://example.com
+rss:
 pages: 3
 size: 312KB
 license:
