@@ -10,7 +10,7 @@ authors: ["Bündnis F5"]
 file:
    format: pdf
    url: /assets/data/f5-Flyer-2023-final.pdf 
-rss: https://example.com
+rss:
 pages: 2
 size: 1.3MB
 license:
