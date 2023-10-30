@@ -1,7 +1,7 @@
 ---
 published: true
 layout: publikation
-title: Gastbeitrag zur Halbzeitkritik an der Regierung
+title: Gastbeitrag zur Halbzeitkritik an der Regierungskoalition
 subtitle: Diese vier Vorhaben muss die Ampel endlich anpacken
 link:
 date: 2023-10-19
