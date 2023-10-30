@@ -13,8 +13,8 @@ rss:
 pages:
 size: 
 license:
-    type: 
-    url: 
+    type:
+    url:
 extra: "[Hier gehts zum Gastbeitrag auf netzpolitik.org](https://www.bmfsfj.de/bmfsfj/service/gesetze/gesetz-zur-staerkung-von-massnahmen-zur-demokratiefoerderung-vielfaltgestaltung-extremismuspraevention-und-politischen-bildung-demokratiefoerdergesetz--207726)"
 ---
 
