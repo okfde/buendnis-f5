@@ -6,15 +6,10 @@ subtitle: Diese vier Vorhaben muss die Ampel endlich anpacken
 date: 2023-10-19
 categories: Stellungnahme
 authors: ["Bündnis F5"]
-file:
-    format: 
-    url: 
 rss:
 pages:
 size: 
 license:
-    type:
-    url:
 extra: "[Hier gehts zum Gastbeitrag auf netzpolitik.org](https://netzpolitik.org/2023/halbzeitkritik-diese-vier-vorhaben-muss-die-ampel-endlich-anpacken/)"
 ---
 
