@@ -10,6 +10,8 @@ rss:
 pages:
 size: 
 license:
+    type: CC-BY-SA 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0/
 extra: "[Hier gehts zum Gastbeitrag auf netzpolitik.org](https://netzpolitik.org/2023/halbzeitkritik-diese-vier-vorhaben-muss-die-ampel-endlich-anpacken/)"
 ---
 
