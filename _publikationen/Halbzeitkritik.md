@@ -15,7 +15,7 @@ size:
 license:
     type:
     url:
-extra: "[Hier gehts zum Gastbeitrag auf netzpolitik.org](https://www.bmfsfj.de/bmfsfj/service/gesetze/gesetz-zur-staerkung-von-massnahmen-zur-demokratiefoerderung-vielfaltgestaltung-extremismuspraevention-und-politischen-bildung-demokratiefoerdergesetz--207726)"
+extra: "[Hier gehts zum Gastbeitrag auf netzpolitik.org](https://netzpolitik.org/2023/halbzeitkritik-diese-vier-vorhaben-muss-die-ampel-endlich-anpacken/)"
 ---
 
 Nach zwei Regierungsjahren muss die Ampel zentrale Versprechen aus dem Koalitionsvertrag endlich angehen. Das digitalpolitische Bündnis F5 kommentiert in diesem Gastbeitrag, dass es trotz erster Fortschritte bei der Verwaltungsmodernisierung, Sicherheitsgesetzen und der Beteiligung von zivilgesellschaftlichen Organisationen langsam knapp wird.
