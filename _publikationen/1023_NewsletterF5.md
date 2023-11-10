@@ -2,7 +2,7 @@
 published: true
 layout: publikation
 title: Refresh - der Bündnis F5 Newsletter
-subtitle: November 2023
+subtitle: Gemeinwohl im Mittelpunkt der Digitalpolitik
 date: 2023-11-03
 categories: Newsletter
 authors: ["Bündnis F5"]
@@ -14,9 +14,6 @@ license:
     url: https://creativecommons.org/licenses/by-sa/4.0/
 extra: "[Lesen Sie hier den vollständigen Newsletter](https://newsletter.wikimedia.de/mailing/191/7040694/19017169/1/e35dcb8c21/index.html)"
 ---
-
-
-**Gemeinwohl  im Mittelpunkt der Digitalpolitik**
 
 Die Halbzeit der Legislaturperiode ist erreicht und das Bündnis F5 hat die vergangenen Monate dafür genutzt, Zwischenbilanz zu ziehen. In verschiedenen Formaten diskutierten wir darüber, was es jetzt braucht, um die im Koalitionsvertrag versprochenen Fortschritte in der Digitalpolitik noch rechtzeitig vor Ende der Legislatur umzusetzen. Konkrete Forderungen und Ideen dazu finden Sie in den Beiträgen dieses Newsletters. 
 
