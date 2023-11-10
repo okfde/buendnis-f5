@@ -12,7 +12,7 @@ size:
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
-extra: "[Lesen Sie hier den vollständigen Newsletter](https://newsletter.wikimedia.de/mailing/191/6833134/0/2bd9a7a059/index.html)"
+extra: "[Lesen Sie hier den vollständigen Newsletter](https://newsletter.wikimedia.de/mailing/191/6833134/0/2bd9a7a059/index.html{target=“_blank”})“
 ---
 
 Hinter dem Bündnis F5 liegt eine arbeitsintensive erste Jahreshälfte. Die Sommerpause wollen wir nun dafür nutzen, Ihnen einige Einblicke in unsere Aktivitäten der vergangenen Monate zu geben. Diese reichen von gemeinsamen Stellungnahmen über die Ausrichtung eines parlamentarischen Frühstücks zum digitalen Ehrenamt bis hin zu einem gemeinsamen Stand bei der diesjährigen re:publica.
