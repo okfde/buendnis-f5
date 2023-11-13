@@ -12,7 +12,7 @@ size:
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
-extra: "[Lesen Sie hier den vollständigen Newsletter](https://newsletter.wikimedia.de/mailing/191/7040694/19017169/1/e35dcb8c21/index.html)"
+extra: "[Lesen Sie hier den vollständigen Newsletter](https://newsletter.wikimedia.de/mailing/191/7040694/19017169/1/e35dcb8c21/index.html){:target='_blank'}"
 ---
 
 Die Halbzeit der Legislaturperiode ist erreicht und das Bündnis F5 hat die vergangenen Monate dafür genutzt, Zwischenbilanz zu ziehen. In verschiedenen Formaten diskutierten wir darüber, was es jetzt braucht, um die im Koalitionsvertrag versprochenen Fortschritte in der Digitalpolitik noch rechtzeitig vor Ende der Legislatur umzusetzen. Konkrete Forderungen und Ideen dazu finden Sie in den Beiträgen dieses Newsletters. 
