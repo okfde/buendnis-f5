@@ -16,7 +16,7 @@ size: 265KB
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
-extra: "[Zukunftsstrategie Forschung und Innovation(BMBF)](https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftsstrategie_node.html)"
+extra: "[Zukunftsstrategie Forschung und Innovation(BMBF)](https://www.bmbf.de/bmbf/de/forschung/zukunftsstrategie/zukunftsstrategie_node.html){:target='_blank'}"
 ---
 
 Das Bündnis F5 (AlgorithmWatch, Gesellschaft für Freiheitsrechte, Open Knowledge Foundation Deutschland, Reporter ohne Grenzen, Wikimedia Deutschland) hat im Rahmen der Online-Konsultation des Bundesministeriums für Bildung und Forschung folgende Stellungnahme auf die vorgegebenen Fragen zur Zukunftsstrategie Forschung und Innovation abgegeben.

@@ -16,7 +16,7 @@ size: 129KB
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
-extra: "[Gastbeitrag auf netzpolitik.org](https://netzpolitik.org/2022/digitalgipfel-ein-staatlich-organisiertes-lobbyfest/)"
+extra: "[Gastbeitrag auf netzpolitik.org](https://netzpolitik.org/2022/digitalgipfel-ein-staatlich-organisiertes-lobbyfest/){:target='_blank'}"
 ---
 
 Wie schon bei der Digitalstrategie war auch auf dem Digitalgipfel der Bundesregierung die Zivilgesellschaft nicht eingebunden. Dabei könnte die Digitalpolitik insgesamt so viel besser sein, wenn die Zivilgesellschaft einbezogen würde. 
