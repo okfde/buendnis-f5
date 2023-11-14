@@ -2,7 +2,7 @@
 published: true
 layout: publikation
 title: F5-Netzwerkabend
-subtitle: Eine digitalpolitische Zwischenbilanz ziehen – darum ging es beim Netzwerktreffen des zivilgesellschaftlichen Bündnisses F5 in Berlin. Die Bündnispartner hatten Politikschaffende und digitalpolitisch Engagierte eingeladen, um gemeinsam zu diskutieren. Was müsste sich ändern in der Digitalpolitik der Ampel? Herausgekommen sind Vorschläge für bessere Beteiligung der Zivilgesellschaft.  
+subtitle: Eine digitalpolitische Zwischenbilanz ziehen – darum ging es beim Netzwerktreffen des zivilgesellschaftlichen Bündnisses F5 in Berlin.   
 link: https://blog.wikimedia.de/2023/09/29/wir-machen-jetzt-das-zivilgesellschaftseinbindungsumsetzungsgesetz/
 date: 2023-09-28
 categories: Veranstaltungsbericht
@@ -12,6 +12,8 @@ license:
     url: https://creativecommons.org/licenses/by-sa/4.0/
 extra: https://commons.wikimedia.org/wiki/Category:Netzwerkabend_B%C3%BCndnis_F5_2023
 ---
+
+Die Bündnispartner hatten Politikschaffende und digitalpolitisch Engagierte eingeladen, um gemeinsam zu diskutieren. Was müsste sich ändern in der Digitalpolitik der Ampel? Herausgekommen sind Vorschläge für bessere Beteiligung der Zivilgesellschaft.
 
 Einig waren sich Henriette Litta, Geschäftsführerin der Open Knowledge Foundation, die Journalistin Kristin Becker vom ARD Hauptstadtstudio und Moderator Matthias Spielkamp, Geschäftsführer von Algorithm Watch in der Wahrnehmung: Die Ampel-Regierung hat sich im Koalitionsvertrag vielversprechende Ziele gesetzt. Aber was ist aus denen geworden?	
 
