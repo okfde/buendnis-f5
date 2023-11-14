@@ -10,6 +10,13 @@ collections:
     output: true
     permalink: /:collection/:name
 
+plugins:
+  - jekyll-feed
+
+feed:
+  collections:
+    - publikationen
+
 twitter_username:
 github_username:
 # Exclude from processing.

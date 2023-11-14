@@ -53,6 +53,8 @@ title: Publikationen
             </details>
         </div>
 
+        <a class="button-rss" href="/feed/publikationen.xml" target="_blank" rel="noopener noreferrer">RSS</a>
+
         {% for publikation in publikationen %}
         <div class="publication-item year-all all_types {{ publikation.categories }} year-{{ publikation.date | date: '%Y' }}"
             data-event-date="{{ publikation.date | date: '%Y-%m-%d' }}">
@@ -141,7 +143,7 @@ title: Publikationen
                     current[0].className = current[0].className.replace(" categorized", "");
                     this.className += " categorized";
                     categoryDetail.removeAttribute('open');
-                    categoryCurrent.innerText = this.innerText;
+                    categoryCurrent.innerText = this.innerHTML;
                 });
             }
         </script>
@@ -161,7 +163,7 @@ title: Publikationen
                     );
                     this.className += " filtered";
                     yearDetail.removeAttribute("open");
-                    yearCurrent.innerText = this.innerText;
+                    yearCurrent.innerText = this.innerHTML;
                 });
             }
         </script>
