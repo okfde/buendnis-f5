@@ -2,7 +2,7 @@
 published: true
 layout: publikation
 title: F5-Netzwerkabend
-subtitle: Eine digitalpolitische Zwischenbilanz ziehen – darum ging es beim Netzwerktreffen des zivilgesellschaftlichen Bündnisses F5 in Berlin.   
+subtitle: Eine digitalpolitische Zwischenbilanz ziehen – darum ging es beim Netzwerktreffen des Bündnis F5 in der Forum Factory Berlin.   
 link: https://blog.wikimedia.de/2023/09/29/wir-machen-jetzt-das-zivilgesellschaftseinbindungsumsetzungsgesetz/
 date: 2023-09-28
 categories: Veranstaltungsbericht
