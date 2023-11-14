@@ -3,14 +3,13 @@ published: true
 layout: publikation
 title: F5-Netzwerkabend
 subtitle: Eine digitalpolitische Zwischenbilanz ziehen – darum ging es beim Netzwerktreffen des Bündnis F5 in der Forum Factory Berlin.   
-link: https://blog.wikimedia.de/2023/09/29/wir-machen-jetzt-das-zivilgesellschaftseinbindungsumsetzungsgesetz/
-date: 2023-09-28
+link: 
 categories: Veranstaltungsbericht
 authors: ["Franziska Kelch"]
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
-extra: https://commons.wikimedia.org/wiki/Category:Netzwerkabend_B%C3%BCndnis_F5_2023
+extra: https://commons.wikimedia.org/wiki/Category:Netzwerkabend_B%C3%BCndnis_F5_2023/
 ---
 
 Die Bündnispartner hatten Politikschaffende und digitalpolitisch Engagierte eingeladen, um gemeinsam zu diskutieren. Was müsste sich ändern in der Digitalpolitik der Ampel? Herausgekommen sind Vorschläge für bessere Beteiligung der Zivilgesellschaft.
