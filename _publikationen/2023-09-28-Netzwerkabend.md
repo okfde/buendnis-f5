@@ -9,7 +9,7 @@ authors: ["Franziska Kelch"]
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
-extra: https://commons.wikimedia.org/wiki/Category:Netzwerkabend_B%C3%BCndnis_F5_2023/
+extra: "[Weitere Fotos von der Veranstaltung finden Sie hier](https://commons.wikimedia.org/wiki/Category:Netzwerkabend_B%C3%BCndnis_F5_2023/{:target='_blank'}"
 ---
 
 Die Bündnispartner hatten Politikschaffende und digitalpolitisch Engagierte eingeladen, um gemeinsam zu diskutieren. Was müsste sich ändern in der Digitalpolitik der Ampel? Herausgekommen sind Vorschläge für bessere Beteiligung der Zivilgesellschaft.
