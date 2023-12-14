@@ -751,6 +751,10 @@ footer {
   }
 }
 
+figure {
+    margin-bottom: 1rem;
+}
+
 // Media queries
 
 @media (min-width: 60rem) {
@@ -812,6 +816,7 @@ footer {
         margin-right: 0.25rem;
       }
     }
+    
   }
   .publication-list .publication-title {
     font-size: 1.75rem;

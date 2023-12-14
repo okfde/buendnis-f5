@@ -16,8 +16,7 @@ Die Bündnispartner hatten Politikschaffende und digitalpolitisch Engagierte ein
 
 Einig waren sich Henriette Litta, Geschäftsführerin der Open Knowledge Foundation, die Journalistin Kristin Becker vom ARD Hauptstadtstudio und Moderator Matthias Spielkamp, Geschäftsführer von Algorithm Watch in der Wahrnehmung: Die Ampel-Regierung hat sich im Koalitionsvertrag vielversprechende Ziele gesetzt. Aber was ist aus denen geworden?	
 
-![Foto des Podiums](/assets/images/640px-2023_F5_Netzwerkabend_0105.jpeg)
-
+{% include ccbysaimage.html file="640px-2023_F5_Netzwerkabend_0105.jpeg" alt="Foto des Podiums" caption="Foto des Podiums" author="Mersiha Kalajdzija" commonslink="https://commons.wikimedia.org/wiki/File:2023_F5_Netzwerkabend_0105.jpg" %}
 
 #### Digitalisierung ist mehr als Nullen und Einsen
 
@@ -44,5 +43,7 @@ Matthias Spielkamp ergänzt eine Reihe von Problemen, die aus seiner Sicht mit e
 Apropos Vorbereitung: Es brauche eine klare Agenda für Beteiligungsrunden, aus der Themen und Teilnehmende hervorgehen. Henriette Litta ergänzt, dass immer mehr zivilgesellschaftliche Organisationen auch eigene Gesetzesentwürfe schreiben. So habe man „etwas Konkretes, worüber man sprechen kann“. Das sei aber ein großer Aufwand, der selten zu stemmen sei.
 „Vielleicht schreiben wir zuerst einmal ein Zivilgesellschaftseinbindungsumsetzungsgesetz,“ schlägt Matthias Spielkamp abschließend vor – mit mindestens einem Augenzwinkern.
 
-![Foto des Publikums](/assets/images/Netzwerkabend1.jpeg)
-![Foto von Gästen](/assets/images/Netzwerkabend2.jpeg)
+{% include ccbysaimage.html file="Netzwerkabend1.jpeg" alt="Foto des Publikums" caption="Foto des Publikums" author="Mersiha Kalajdzija" commonslink="https://commons.wikimedia.org/wiki/File:2023_F5_Netzwerkabend_0207.jpg" %}
+
+{% include ccbysaimage.html file="Netzwerkabend2.jpeg" alt="Foto von Gästen" caption="Foto von Gästen" author="Mersiha Kalajdzija" commonslink="https://commons.wikimedia.org/wiki/File:2023_F5_Netzwerkabend_0258.jpg" %}
+
