@@ -37,6 +37,6 @@ Die Vertreter*innen des Bündnisses merkten außerdem an, dass der aktuell gepla
 
 Auch forderte das Bündnis eine Ausweitung der ÜGR auf weitere Rechtsbereiche, die bisher nicht in der Ausschreibung des BMI und BMJ inkludiert sind. Ein Fokus sollte dabei vor allem auf dem Schutz besonders vulnerabler Gruppen wie Asylbewerber*innen liegen, die bereits heute Ziel einer Vielzahl von Überwachungsmaßnahmen sind und nur sehr begrenzte Möglichkeiten haben, sich davor zu schützen. 
 
-#### Worauf es bei der ÜGR jetzt ankommt
+#### Worauf es jetzt ankommt
 
 Die abschließenden Diskussion zwischen den Parlamentarier*innen und dem Bündnis F5 über das Zusammenspiel von EU-, Bundes- und Länderebenen sowie das Schwachstellenmanagement im Kontext der ÜGR zeigte schließlich, dass viele der zivilgesellschaftlichen Anliegen parteiübergreifend auf Zustimmung stoßen. Neben dem Wunsch nach einer breiteren öffentlichen Debatte kommt es aus Sicht des Bündnisses nun darauf an, trotz der Komplexität des Themas nicht davor zurückschrecken, die ÜGR mit einer begleitenden Freiheitskommission schnellstmöglich zu etablieren und durch die gesetzliche Verankerung einen langfristigen Prozess anzustoßen. Denn nur so hat die Überwachungsgesamtrechung das Potenzial, einen bedeutungsvollen Schutz von Freiheitsrechten zu gewährleisten und zu einer neuen Leitlinie für die Sicherheitspolitik der nächsten Jahrzehnte zu werden. 
