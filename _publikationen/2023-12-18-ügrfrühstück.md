@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: publikation
 title: Parlamentarisches Frühstück zur Überwachungsgesamtrechung
 subtitle: "Sicherheitspolitik neu gedacht: warum wir jetzt eine echte Überwachungsgesamtrechnung brauchen"
