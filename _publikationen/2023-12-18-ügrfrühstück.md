@@ -15,8 +15,6 @@ extra: "[Hier finden Sie die öffentliche Ausschreibung für die Überwachungsge
 
 Sicherheitspolitik neu gedacht: warum wir jetzt eine echte Überwachungsgesamtrechnung brauchen – zu dieser Frage veranstaltete das Bündnis F5 am 28.11. ein parlamentarisches Frühstück unter der Schirmherrschaft von Manuel Höferlin MdB (innenpolitischer Sprecher der FDP Bundestagsfraktion). 
 
-{% include ccbysaimage.html file="640px-2023_F5_Netzwerkabend_0105.jpeg" alt="Foto des Podiums" caption="Foto des Podiums" author="Mersiha Kalajdzija" commonslink="https://commons.wikimedia.org/wiki/File:2023_F5_Netzwerkabend_0105.jpg" %}
-
 {% include ccbysaimage.html file="assets/images/2023-11-28_ÜGR.jpg" alt="Foto des Frühstücks" caption="Foto des parlamentarischen Frühstücks" author="Lilli Iliev" commonslink=https://commons.wikimedia.org/wiki/File:Parlamentarisches_Fr%C3%BChst%C3%BCck_B%C3%BCndnis_F5_zu_%C3%9Cberwachungsgesamtrechnung_2023.jpg" %}
 
 Einig waren sich Höferlin und die Bündnisorganisationen darüber, dass es für die im Koalitionsvertrag angekündigte Überwachungsgesamtrechnung (ÜGR) eine robuste gesetzliche Grundlage braucht. Denn während es in der Sicherheitsgesetzgebung in den vergangenen Jahrzehnten stets zu Verschärfungen kam, gibt es aktuell keine Möglichkeit zu überprüfen, wie hoch der Gesamtdruck von Überwachungsmaßnahmen auf einzelne Personen tatsächlich ist. Das Bündnis drängt deshalb darauf, durch die ÜGR ein Instrument zu verankern, das einen elementaren Beitrag zum Schutz von Bürger*innenrechten leisten kann.
