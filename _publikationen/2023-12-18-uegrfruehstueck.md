@@ -19,7 +19,9 @@ Zu dieser Frage veranstaltete das Bündnis F5 am 28.11. ein parlamentarisches Fr
 
 Einig waren sich Höferlin und die Bündnisorganisationen darüber, dass es für die im Koalitionsvertrag angekündigte Überwachungsgesamtrechnung (ÜGR) eine robuste gesetzliche Grundlage braucht. Denn während es in der Sicherheitsgesetzgebung in den vergangenen Jahrzehnten stets zu Verschärfungen kam, gibt es aktuell keine Möglichkeit zu überprüfen, wie hoch der Gesamtdruck von Überwachungsmaßnahmen auf einzelne Personen tatsächlich ist. Das Bündnis drängt deshalb darauf, durch die ÜGR ein Instrument zu verankern, das einen elementaren Beitrag zum Schutz von Bürger*innenrechten leisten kann.
 
+
 {% include ccbysaimage.html file="2023-11-28_UEGR.jpg" alt="Foto des parlamentarischen Frühstücks" caption="Foto des parlamentarischen Frühstücks" author="Lilli Iliev" commonslink="https://commons.wikimedia.org/wiki/File:Parlamentarisches_Fr%C3%BChst%C3%BCck_B%C3%BCndnis_F5_zu_%C3%9Cberwachungsgesamtrechnung_2023.jpg" %}
+
 
 #### Umsetzung der ÜGR in Gefahr?
 
