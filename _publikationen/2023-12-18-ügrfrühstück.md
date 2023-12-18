@@ -13,7 +13,7 @@ license:
 extra: "[Hier finden Sie die öffentliche Ausschreibung für die Überwachungsgesamtrechnung]([https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2023/05/ausschreibung-ueberwachungsgesamtrechnung.html)){:target='_blank'}"
 ---
 
-Sicherheitspolitik neu gedacht: warum wir jetzt eine echte Überwachungsgesamtrechnung brauchen – zu dieser Frage veranstaltete das Bündnis F5 am 28.11. ein parlamentarisches Frühstück unter der Schirmherrschaft von Manuel Höferlin MdB (innenpolitischer Sprecher der FDP Bundestagsfraktion). 
+*Sicherheitspolitik neu gedacht: warum wir jetzt eine echte Überwachungsgesamtrechnung brauchen* – zu dieser Frage veranstaltete das Bündnis F5 am 28.11. ein parlamentarisches Frühstück unter der Schirmherrschaft von Manuel Höferlin MdB (innenpolitischer Sprecher der FDP Bundestagsfraktion). 
 
 {% include ccbysaimage.html file="2023-11-28_ÜGR.jpg" alt="Foto des parlamentarischen Frühstücks" caption="Foto des parlamentarischen Frühstücks" author="Lilli Iliev" commonslink=https://commons.wikimedia.org/wiki/File:Parlamentarisches_Fr%C3%BChst%C3%BCck_B%C3%BCndnis_F5_zu_%C3%9Cberwachungsgesamtrechnung_2023.jpg" %}
 
