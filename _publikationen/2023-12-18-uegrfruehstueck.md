@@ -13,7 +13,7 @@ license:
 extra: "[Hier finden Sie die öffentliche Ausschreibung für die Überwachungsgesamtrechnung](https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2023/05/ausschreibung-ueberwachungsgesamtrechnung.html){:target='_blank'}"
 ---
 
-#### Sicherheitspolitik neu gedacht: warum wir jetzt eine echte Überwachungsgesamtrechnung brauchen. 
+##### Sicherheitspolitik neu gedacht: warum wir jetzt eine echte Überwachungsgesamtrechnung brauchen. 
 
 Zu dieser Frage veranstaltete das Bündnis F5 am 28.11. ein parlamentarisches Frühstück unter der Schirmherrschaft von Manuel Höferlin MdB (innenpolitischer Sprecher der FDP Bundestagsfraktion). Einig waren sich Höferlin und die Bündnisorganisationen darüber, dass es für die im Koalitionsvertrag angekündigte Überwachungsgesamtrechnung (ÜGR) eine robuste gesetzliche Grundlage braucht. Denn während es in der Sicherheitsgesetzgebung in den vergangenen Jahrzehnten stets zu Verschärfungen kam, gibt es aktuell keine Möglichkeit zu überprüfen, wie hoch der Gesamtdruck von Überwachungsmaßnahmen auf einzelne Personen tatsächlich ist. Das Bündnis drängt deshalb darauf, durch die ÜGR ein Instrument zu verankern, das einen elementaren Beitrag zum Schutz von Bürger\*innenrechten leisten kann.
 
