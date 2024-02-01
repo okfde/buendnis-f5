@@ -9,7 +9,7 @@ categories: Sonstiges
 authors: ["Bündnis F5"]
 file:
     format: pdf
-    url: assets/data/2024-02-11-F5-ResilienteDemokratie.pdf
+    url: /assets/data/2024-02-11-F5-ResilienteDemokratie.pdf
 rss:
 pages: 2
 size: 
