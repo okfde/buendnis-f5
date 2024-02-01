@@ -20,6 +20,7 @@ license:
 
 ##### Das Bündnis F5 setzt sich für eine Digitalpolitik ein, die das Internet zu einem guten Ort für alle Menschen macht. Die Bündnisorganisationen arbeiten tagtäglich zu unterschiedlichen Fragen, die die digitale Transformation heute und in Zukunft prägen. Uns eint der Anspruch, eine gemeinwohlorientierte Digitalisierung voranzutreiben, die auf den Grundpfeilern Offenheit und Transparenz, Teilhabe und Zugang und dem Schutz der Grund- und Menschenrechte aufbaut.
 
+
 Wir erleben aktuell mit großer Besorgnis eine deutliche Verschiebung des öffentlichen Diskurses. Nationalistische, antisemitische und rassistische Positionen erhalten immer stärker Zuspruch – und damit auch die Parteien, die diese vertreten. Mit Blick auf die diesjährigen Landtagswahlen in Brandenburg, Thüringen und Sachsen, die zahlreichen Kommunalwahlen sowie die Europawahl ist zu befürchten, dass sich dieser Zulauf auch in Mandaten niederschlägt und diese Positionen in reale Politik umgesetzt werden.
 
 Wir erkennen, dass digitale Technologien genutzt werden, um diese Verschiebungen zu unterstützen und zu befeuern. Sei es durch Des- und Misinformationskampagnen, oder die Verbreitung von Hass und Hetze. Oder indem digitale Plattformen zur Mobilisierung und Vernetzung oder zur Beobachtung Andersdenkender benutzt werden. Die kommerziellen Plattformen treiben die Vermarktung von Interaktionen voran, was zu Emotionalisierung und Verschärfung anstelle von Aufklärung und Bildung führt.
