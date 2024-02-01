@@ -4,7 +4,7 @@ layout: publikation
 title: "Digitalpolitik für eine starke Demokratie - Bündnis F5 unterstützt Aktionstag gegen Rechtsextremismus"
 subtitle:  
 link: /assets/data/2023-09-12_F5_Stellungnahme_Datenstrategie.pdf
-date: 2023-09-12
+date: 2024-02-01
 categories: Sonstiges
 authors: ["Bündnis F5"]
 file:
