@@ -18,9 +18,7 @@ license:
     url: https://creativecommons.org/licenses/by-sa/4.0/
 ---
 
-Das Bündnis F5 setzt sich für eine Digitalpolitik ein, die das Internet zu einem guten Ort für alle Menschen macht. Die Bündnisorganisationen arbeiten tagtäglich zu unterschiedlichen Fragen, die die digitale Transformation heute und in Zukunft prägen. 
-
-##### Uns eint der Anspruch, eine gemeinwohlorientierte Digitalisierung voranzutreiben, die auf den Grundpfeilern Offenheit und Transparenz, Teilhabe und Zugang und dem Schutz der Grund- und Menschenrechte aufbaut.
+##### Das Bündnis F5 setzt sich für eine Digitalpolitik ein, die das Internet zu einem guten Ort für alle Menschen macht. Die Bündnisorganisationen arbeiten tagtäglich zu unterschiedlichen Fragen, die die digitale Transformation heute und in Zukunft prägen. Uns eint der Anspruch, eine gemeinwohlorientierte Digitalisierung voranzutreiben, die auf den Grundpfeilern Offenheit und Transparenz, Teilhabe und Zugang und dem Schutz der Grund- und Menschenrechte aufbaut.
 
 Wir erleben aktuell mit großer Besorgnis eine deutliche Verschiebung des öffentlichen Diskurses. Nationalistische, antisemitische und rassistische Positionen erhalten immer stärker Zuspruch – und damit auch die Parteien, die diese vertreten. Mit Blick auf die diesjährigen Landtagswahlen in Brandenburg, Thüringen und Sachsen, die zahlreichen Kommunalwahlen sowie die Europawahl ist zu befürchten, dass sich dieser Zulauf auch in Mandaten niederschlägt und diese Positionen in reale Politik umgesetzt werden.
 
