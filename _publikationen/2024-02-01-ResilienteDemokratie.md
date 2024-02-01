@@ -16,6 +16,7 @@ size:
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
+---
 
 Das Bündnis F5 setzt sich für eine Digitalpolitik ein, die das Internet zu einem guten Ort für alle Menschen macht. Die Bündnisorganisationen arbeiten tagtäglich zu unterschiedlichen Fragen, die die digitale Transformation heute und in Zukunft prägen. 
 
