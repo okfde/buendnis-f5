@@ -20,7 +20,7 @@ Mit dem DDG wird auf nationaler Ebene die Umsetzung des Digital Services Acts de
 
 Nach der Begrüßung durch Tabea Rößner folgte eine kurze Einführung in das Thema durch Kai Dittmann, Leiter Politik bei der Gesellschaft für Freiheitsrechte. Anschließend präsentieren Helene Hahn, Referentin für Internetfreiheit bei Reporter ohne Grenzen, und Pia Sombetzki, Policy & Advocacy Managerin bei AlgorithmWatch, die Handlungsempfehlungen zum Gesetzesentwurf.
 
-##### Gesetzesentwurf enthät bereits gute Elemente
+##### Gesetzesentwurf enthält bereits gute Elemente
 Die Ausarbeitung des DSA und DDG hat das Bündnis F5 in den vergangenen Jahren bereits intensiv begleitet. So enthält der aktuelle Entwurf bereits viele gute Elemente, für die wir uns gemeinsam mit anderen zivilgesellschaftlichen Organisationen starkgemacht haben. Dazu zählen beispielsweise die Ausgestaltung der zentralen Beschwerdestelle im Interesse aller Internet-Nutzer\*innen, das Aufgeben der Sonderzuständigkeit für soziale Netzwerke beim Bundesamt für Justiz sowie der Ausschluss von Firmen als Normadressaten der Regelung aus dem Beirat. Wir begrüßen die deutliche Stärkung zivilgesellschaftlicher Expertise in diesem Gremium mit nun acht Sitzen.
 
 ##### Unsere Empfehlungen für das DDG
