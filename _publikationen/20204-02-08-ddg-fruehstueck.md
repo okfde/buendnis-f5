@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: publikation
 title: Parlamentarisches Frühstück zum Digitale-Dienste-Gesetz
 subtitle: 
@@ -16,6 +16,7 @@ Am 19. Januar 2024 veranstaltete das Bündnis F5 unter der Schirmherrschaft von 
 
 ![](/assets/images/ddg-fruehstueck.jpg)
 
+##### Umsetzung einer wegweisenden Gesetzgebung
 Mit dem DDG wird auf nationaler Ebene die Umsetzung des Digital Services Acts der Europäischen Union auf den Weg gebracht. Das wegweisende Gesetz, das am 17.02.2024 vollständig in Kraft tritt, soll die Rechte von Nutzer\*innen im digitalen Raum stärken, Transparenz hinsichtlich der Aktivitäten von Plattformbetreibern schaffen und sicherstellen, dass die Anbieter sich an einheitliche Regeln halten müssen. Online-Plattformen mit mehr als 45 Millionen monatlichen Nutzer\*innen werden dabei unter die Aufsicht der europäischen Kommission gestellt, während Plattformen und Hosting-Anbieter, die unter diese Schwelle fallen, auf nationaler Ebene durch dort eingesetzte Koordinierungsstellen beaufsichtigt werden. Für Deutschland bestimmt das DDG die Bundesnetzagentur als zuständige Stelle.
 
 Nach der Begrüßung durch Tabea Rößner folgte eine kurze Einführung in das Thema durch Kai Dittmann, Leiter Politik bei der Gesellschaft für Freiheitsrechte. Anschließend präsentieren Helene Hahn, Referentin für Internetfreiheit bei Reporter ohne Grenzen, und Pia Sombetzki, Policy & Advocacy Managerin bei AlgorithmWatch, die Handlungsempfehlungen zum Gesetzesentwurf.
@@ -23,7 +24,7 @@ Nach der Begrüßung durch Tabea Rößner folgte eine kurze Einführung in das T
 ##### Gesetzesentwurf enthät bereits gute Elemente
 Die Ausarbeitung des DSA und DDG hat das Bündnis F5 in den vergangenen Jahren bereits intensiv begleitet. So enthält der aktuelle Entwurf bereits viele gute Elemente, für die wir uns gemeinsam mit anderen zivilgesellschaftlichen Organisationen starkgemacht haben. Dazu zählen beispielsweise die Ausgestaltung der zentralen Beschwerdestelle im Interesse aller Internet-Nutzer\*innen, das Aufgeben der Sonderzuständigkeit für soziale Netzwerke beim Bundesamt für Justiz sowie der Ausschluss von Firmen als Normadressaten der Regelung aus dem Beirat. Wir begrüßen die deutliche Stärkung zivilgesellschaftlicher Expertise in diesem Gremium mit nun acht Sitzen.
 
-##### Empfehlungen des Bündnisses
+##### Empfehlungen für das DDG
 Allerdings mahnten Helene Hahn und Pia Sombetzki in ihren Vorträgen an, dass an mehreren Stellen im Gesetz noch nachgeschärft werden sollte. Unter den Titeln „An der Seite der Journalist\*innen und Nutzer\*innen: Beschwerdestelle stärken” und „Plattformforschung für die Demokratie: Was es jetzt braucht, um das Recht auf Datenzugang mit Leben zu füllen” präsentierten die beiden Vertreterinnen des Bündnisses ihre Forderungen zum DDG-Entwurf vom 20.12.2023:
 
 * Eine starke Koordinierungsstelle, die bei der Einbindung weiterer zuständiger Behörden die alleinige Vertreterin Deutschlands im EU-Gremium ist (nach §16, Abs. 2).
