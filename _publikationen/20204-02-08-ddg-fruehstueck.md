@@ -12,9 +12,9 @@ license:
     url: 
 extra: "[Hier finden Sie die Pressemittelung des Bündnis F5 zum DDG von Juli 2023. ](https://buendnis-f5.de/publikationen/2023-07-06-pm-ddg/){:target='_blank'}"
 ---
-Am 19. Januar 2024 veranstaltete das Bündnis F5 unter der Schirmherrschaft von Tabea Rößner MdB, Vorsitzende des Ausschusses für Digitales, ein parlamentarisches Frühstück zum Digitale-Dienste-Gesetz (DDG). Nachdem der Kabinettsentwurf des Gesetzes noch kurz vor Ende des Jahres 2023 veröffentlicht wurde, wird die finale Ausgestaltung nun im Parlament ausgehandelt. Diese Gelegenheit nutzte das Bündnis F5, um den Gesetzesentwurf mit zuständigen Parlamentarier\*innen zu diskutieren und Empfehlungen für die anstehenden Beratungen im Bundestag mit auf den Weg zu geben.
+Am 19. Januar 2024 veranstaltete das Bündnis F5 unter der Schirmherrschaft von Tabea Rößner MdB, Vorsitzende des Ausschusses für Digitales, ein parlamentarisches Frühstück zum Digitale-Dienste-Gesetz (DDG). Nachdem der Kabinettsentwurf des Gesetzes noch kurz vor Ende des Jahres 2023 veröffentlicht wurde, wird die finale Ausgestaltung nun im Parlament ausgehandelt. Diese Gelegenheit nutzte das Bündnis F5, um den Gesetzesentwurf mit zuständigen Parlamentarier\*innen zu diskutieren und Empfehlungen für die anstehenden Beratungen im Bundestag mit auf den Weg zu geben. 
 
-![](/assets/images/IMG_8034.jpg)
+![](/assets/images/ddg-fruehstueck.jpg)
 
 Mit dem DDG wird auf nationaler Ebene die Umsetzung des Digital Services Acts der Europäischen Union auf den Weg gebracht. Das wegweisende Gesetz, das am 17.02.2024 vollständig in Kraft tritt, soll die Rechte von Nutzer\*innen im digitalen Raum stärken, Transparenz hinsichtlich der Aktivitäten von Plattformbetreibern schaffen und sicherstellen, dass die Anbieter sich an einheitliche Regeln halten müssen. Online-Plattformen mit mehr als 45 Millionen monatlichen Nutzer\*innen werden dabei unter die Aufsicht der europäischen Kommission gestellt, während Plattformen und Hosting-Anbieter, die unter diese Schwelle fallen, auf nationaler Ebene durch dort eingesetzte Koordinierungsstellen beaufsichtigt werden. Für Deutschland bestimmt das DDG die Bundesnetzagentur als zuständige Stelle.
 
@@ -39,3 +39,4 @@ Allerdings mahnten Helene Hahn und Pia Sombetzki in ihren Vorträgen an, dass an
 * Eine deutliche Erhöhung des Forschungsetats, der bisher bei lediglich 300.000€ liegt. In Anbetracht der Ziele, die der DSA verfolgt, und des Aufwandes bei externen Untersuchungen, wäre mindestens ein zehnfacher Betrag von 3 Mio. € angebracht.
 
 Worauf es nun ankommt, ist die zügige Umsetzung des DDG unter fortlaufender Berücksichtigung zivilgesellschaftlicher Interessen in den Anhörungen und Beratungen des Gesetzesentwurfs.
+
