@@ -23,7 +23,7 @@ Nach der Begrüßung durch Tabea Rößner folgte eine kurze Einführung in das T
 ##### Gesetzesentwurf enthät bereits gute Elemente
 Die Ausarbeitung des DSA und DDG hat das Bündnis F5 in den vergangenen Jahren bereits intensiv begleitet. So enthält der aktuelle Entwurf bereits viele gute Elemente, für die wir uns gemeinsam mit anderen zivilgesellschaftlichen Organisationen starkgemacht haben. Dazu zählen beispielsweise die Ausgestaltung der zentralen Beschwerdestelle im Interesse aller Internet-Nutzer\*innen, das Aufgeben der Sonderzuständigkeit für soziale Netzwerke beim Bundesamt für Justiz sowie der Ausschluss von Firmen als Normadressaten der Regelung aus dem Beirat. Wir begrüßen die deutliche Stärkung zivilgesellschaftlicher Expertise in diesem Gremium mit nun acht Sitzen.
 
-##### Empfehlungen für das DDG
+##### Unsere Empfehlungen für das DDG
 Allerdings mahnten Helene Hahn und Pia Sombetzki in ihren Vorträgen an, dass an mehreren Stellen im Gesetz noch nachgeschärft werden sollte. Unter den Titeln „An der Seite der Journalist\*innen und Nutzer\*innen: Beschwerdestelle stärken” und „Plattformforschung für die Demokratie: Was es jetzt braucht, um das Recht auf Datenzugang mit Leben zu füllen” präsentierten die beiden Vertreterinnen des Bündnisses ihre Forderungen zum DDG-Entwurf vom 20.12.2023:
 
 * Eine starke Koordinierungsstelle, die bei der Einbindung weiterer zuständiger Behörden die alleinige Vertreterin Deutschlands im EU-Gremium ist (nach §16, Abs. 2).
