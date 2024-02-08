@@ -4,7 +4,7 @@ layout: publikation
 title: Parlamentarisches Frühstück zum Digitale-Dienste-Gesetz
 subtitle: 
 link: 
-date: 2023-12-18
+date: 2024-02-08
 categories: Veranstaltungsbericht
 authors: ["Bündnis F5"]
 license:
