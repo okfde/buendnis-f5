@@ -11,8 +11,7 @@ license:
     type: CC-BY-SA 4.0
     url: 
 extra:
-    "[Hier finden Sie die Pressemittelung des Bündnis F5 zum DDG von Juli 2023](https://buendnis-f5.de/publikationen/2023-07-06-pm-ddg){:target='_blank'}"
-    "[Hier finden Sie die Stellungnahme zum Kabinettsentwurf von AlgorithmWatch](https://algorithmwatch.org/de/stellungnahme-regierungsentwurf-dsa-deutschland/){:target='_blank'}"
+    "[Hier finden Sie die Pressemittelung des Bündnis F5 zum DDG von Juli 2023](https://buendnis-f5.de/publikationen/2023-07-06-pm-ddg){:target='_blank'}" <br/>"[Hier finden Sie die Stellungnahme zum Kabinettsentwurf von AlgorithmWatch](https://algorithmwatch.org/de/stellungnahme-regierungsentwurf-dsa-deutschland/){:target='_blank'}"
 ---
 
 Am 19. Januar 2024 veranstaltete das Bündnis F5 unter der Schirmherrschaft von Tabea Rößner MdB, Vorsitzende des Ausschusses für Digitales, ein parlamentarisches Frühstück zum Digitale-Dienste-Gesetz (DDG). Nachdem der Kabinettsentwurf des Gesetzes noch kurz vor Ende des Jahres 2023 veröffentlicht wurde, wird die finale Ausgestaltung nun im Parlament ausgehandelt. Diese Gelegenheit nutzte das Bündnis F5, um den Gesetzesentwurf mit zuständigen Parlamentarier\*innen zu diskutieren und Empfehlungen für die anstehenden Beratungen im Bundestag mit auf den Weg zu geben. 
