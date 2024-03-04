@@ -4,7 +4,7 @@ layout: publikation
 title: Transparenzbericht 2023
 subtitle: 
 link: /assets/data/2023_F5_Transparenzbericht.pdf
-date: 2024-02-01
+date: 2024-03-04
 categories: Sonstiges
 authors: ["Bündnis F5"]
 file:
