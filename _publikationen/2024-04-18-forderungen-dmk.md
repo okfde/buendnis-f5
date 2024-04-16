@@ -1,15 +1,15 @@
 ---
-published: false
+published: true
 layout: publikation
 title: "Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor" 
 subtitle: 
-link: assets/data/F5_Forderungspapier_DMK.pdf
+link: /assets/data/F5_Forderungspapier_DMK.pdf
 date: 2024-04-18
 categories: Forderungspapier
 authors: ["Bündnis F5"]
 file:
     format: pdf
-    url: assets/data/F5_Forderungspapier_DMK.pdf
+    url: /assets/data/F5_Forderungspapier_DMK.pdf
 rss:
 pages: 12
 size: 289,5 kB
