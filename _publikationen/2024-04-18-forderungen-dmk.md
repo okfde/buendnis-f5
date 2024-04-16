@@ -1,7 +1,7 @@
 ---
 published: true
 layout: publikation
-title: "Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor" 
+title: "Forderungen des Bündnis F5 an die erste Digitalministerkonferenz am 19.04.2024" 
 subtitle: 
 link: /assets/data/F5_Forderungspapier_DMK.pdf
 date: 2024-04-16
@@ -19,3 +19,5 @@ license:
 ---
 
 Mit der Gründung der ersten Digitalministerkonferenz (DMK) am 19. April 2024 in Potsdam setzen sich die 16 Bundesländer das gemeinsame Ziel, die digitale Transformation zum Wohle der Bürger*innen zu gestalten. Die Vision eines offenen, freien, verlässlichen und sicheren Internets kann nur durch eine gemeinwohlorientierte Digitalpolitik unter Einbeziehung der Zivilgesellschaft Wirklichkeit werden. F5 appelliert an die Verantwortlichen der DMK, die in unserem Forderungspapier ausgeführten Anliegen politisch umzusetzen. 
+
+
