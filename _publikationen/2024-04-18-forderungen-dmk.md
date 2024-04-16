@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: publikation
 title: "Erste Digitalministerkonferenz: Bündnis F5 stellt Forderungen vor" 
 subtitle: 
