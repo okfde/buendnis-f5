@@ -23,9 +23,9 @@ parlamentarisches Frühstück, um sich darüber auszutauschen, welchen politisch
 es für den Einsatz von KI braucht und wie wir das Potenzial unserer Datenschätze für die
 Verwaltungsmodernisierung besser nutzen können.
 
-{% include ccbysaimage.html file="assets/images/640px-Bündnis_F5_-_Parlamentarisches_Frühstück_Nr._8_Verwaltungsdigitalisierung,_Matthias_Spielkamp,_Nadine_Schön,_Henriette_Litta,_Stefan_Kaufmann.jpg" alt="Foto des parlamentarischen Frühstücks"
+{% include ccbysaimage.html file="assets/images/640px-Bündnis_F5_-_Parlamentarisches_Frühstück_Nr._8_Verwaltungsdigitalisierung,_Matthias_Spielkamp,_Nadine_Schön,_Henriette_Litta,_Stefan_Kaufmann.jpg"
 
-caption="Foto des parlamentarischen Frühstücks" author="Lilli Iliev" commonslink="https://commons.wikimedia.org/wiki/File:B%C3%BCndnis_F5_-_Parlamentarisches_Fr%C3%BChst%C3%BCck_Nr._8_Verwaltungsdigitalisierung,_Matthias_Spielkamp,_Nadine_Sch%C3%B6n,_Henriette_Litta,_Stefan_Kaufmann.jpg" %}
+alt="Foto des parlamentarischen Frühstücks" caption="Foto des parlamentarischen Frühstücks" author="Lilli Iliev" commonslink="https://commons.wikimedia.org/wiki/File:B%C3%BCndnis_F5_-_Parlamentarisches_Fr%C3%BChst%C3%BCck_Nr._8_Verwaltungsdigitalisierung,_Matthias_Spielkamp,_Nadine_Sch%C3%B6n,_Henriette_Litta,_Stefan_Kaufmann.jpg" %}
 
 ##### KI-Transparenzregister zur Folgenabschätzung 
 In Bezug auf den Einsatz von KI-Systemen in der öffentlichen Verwaltung konnte Matthias Spielkamp, Geschäftsführer von AlgorithmWatch, die Frage in seinem Impulsvortrag schnell beantworten: Es braucht ein KI-Transparenzregister. Das Register kann einen Überblick über Zweck, Hersteller, Zuverlässigkeit und Wirksamkeit der in Behörden eingesetzten KI-Anwendungen bieten und damit sowohl dazu beitragen, die Öffentlichkeit zu informieren, als auch Wissen zwischen Behörden auszutauschen. 
