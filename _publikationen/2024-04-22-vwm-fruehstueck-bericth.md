@@ -23,7 +23,7 @@ parlamentarisches Frühstück, um sich darüber auszutauschen, welchen politisch
 es für den Einsatz von KI braucht und wie wir das Potenzial unserer Datenschätze für die
 Verwaltungsmodernisierung besser nutzen können.
 
-{% include ccbysaimage.html file="assets/images/640px-Bündnis_F5_-_Parlamentarisches_Frühstück_Nr._8_Verwaltungsdigitalisierung,_Matthias_Spielkamp,_Nadine_Schön,_Henriette_Litta,_Stefan_Kaufmann.jpg"
+{% include ccbysaimage.html file="640px-Bündnis_F5_-_Parlamentarisches_Frühstück_Nr._8_Verwaltungsdigitalisierung,_Matthias_Spielkamp,_Nadine_Schön,_Henriette_Litta,_Stefan_Kaufmann.jpg"
 
 alt="Foto des parlamentarischen Frühstücks" caption="Foto des parlamentarischen Frühstücks" author="Lilli Iliev" commonslink="https://commons.wikimedia.org/wiki/File:B%C3%BCndnis_F5_-_Parlamentarisches_Fr%C3%BChst%C3%BCck_Nr._8_Verwaltungsdigitalisierung,_Matthias_Spielkamp,_Nadine_Sch%C3%B6n,_Henriette_Litta,_Stefan_Kaufmann.jpg" %}
 
