@@ -16,7 +16,7 @@ size: 93.5 kB
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
-extra: "[Hier finden Sie die deutsche Version des Positionspapiers.](https://buendnis-f5.de/publikationen){:target='_blank'}"
+extra: "[Hier finden Sie die deutsche Version des Positionspapiers.](https://buendnis-f5.de/publikationen/2024-05-21-euforderungspapier){:target='_blank'}"
 ---
 The European Union has established itself as a pioneer in digital policy. Over the past five years, important laws have been introduced to curb the power of big tech companies and to strengthen human rights in the digital world. At the same time, European digital policy is still too often driven by technical trends and profit-oriented interests. The focus on the common good is lost.
 
