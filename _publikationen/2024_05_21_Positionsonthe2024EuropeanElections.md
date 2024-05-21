@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: publikation
 title: "Positions of the F5-Alliance on the 2024 European Elections" 
 subtitle: 
