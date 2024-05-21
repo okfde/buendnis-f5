@@ -12,7 +12,7 @@ file:
     url: /assets/data/EN_EU_Positionen_F5.pdf
 rss:
 pages: 15
-size: 93.5 kB
+size: 2.3 MB
 license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
