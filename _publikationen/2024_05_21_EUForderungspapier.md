@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: publikation
 title: "Positionen des Bündnis F5 zur Europawahl 2024" 
 subtitle: 
