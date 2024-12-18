@@ -5,7 +5,7 @@ title: "Blaupause für ein Ministerium für digitale Transformation"
 subtitle: "Policy Paper des Bündnis F5"
 link: /assets/data/241219_Policy Paper_F5_Digitalministerium.pdf
 date: 2024-12-18
-categories: Forderungspapier
+categories: Positionspapier
 authors: ["Bündnis F5"]
 file:
     format: pdf
