@@ -25,7 +25,7 @@ Ebene erfordern eine stärkere deutsche Stimme, und die digitale Transformation 
 diesem Hintergrund präsentiert das Bündnis F5 mit diesem Policy Paper eine Blaupause für ein eigenständiges Ministerium für digitale Transformation. Dieses Ministerium könnte nicht nur
 die bestehenden Herausforderungen angehen, sondern auch als zentraler Motor für eine gemeinwohlorientierte Digitalisierung dienen.
 
-Dieses Papier beschreibt zunächst die Aufgabenfelder und die damit verbundenen Herausforderungen der digitalen Transformation (Kapitel 1). Im nähsten
+Dieses Papier beschreibt zunächst die Aufgabenfelder und die damit verbundenen Herausforderungen der digitalen Transformation (Kapitel 1). Im nächsten
 Schritt werden übergeordnete strukturelle Lösungen
 aufgezeigt, die ein Digitalministerium bieten könnte
 (Kapitel 2). Anschließend werden die Voraussetzungen
