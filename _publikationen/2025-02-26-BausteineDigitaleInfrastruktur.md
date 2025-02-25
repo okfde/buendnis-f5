@@ -4,7 +4,7 @@ layout: publikation
 title: "Bausteine für eine resiliente digitale Infrastruktur"
 subtitle:  
 link: /assets/data/F5_DigitaleInfrastruktur_onepager.pdf
-date: 2025-02-26
+date: 2025-02-25
 categories: Forderungspapier
 authors: ["Bündnis F5"]
 file:
