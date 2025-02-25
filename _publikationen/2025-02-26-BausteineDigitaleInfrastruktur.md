@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: publikation
 title: "Bausteine für eine resiliente digitale Infrastruktur"
 subtitle:  
