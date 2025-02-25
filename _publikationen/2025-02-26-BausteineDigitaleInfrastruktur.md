@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: publikation
 title: "Bausteine für eine resiliente digitale Infrastruktur"
 subtitle:  
@@ -17,8 +17,6 @@ license:
     type: CC-BY-SA 4.0
     url: https://creativecommons.org/licenses/by-sa/4.0/
 ---
-
-##### Bausteine für eine resiliente digitale Infrastruktur
 
 Genau wie ein gut ausgebautes Schienennetzwerk, zugängliche Schulen oder ein verlässliches Energiesystem brauchen digitale Systeme ein stabiles Fundament – von der IT kommunaler Verwaltungen bis hin zu den großen Plattformen.
 
