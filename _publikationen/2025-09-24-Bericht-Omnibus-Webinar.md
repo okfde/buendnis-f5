@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: publikation
 title: Online-Briefing zum Digitalen Omnibus der EU-Kommission mit Kai Zenner
 subtitle: 
