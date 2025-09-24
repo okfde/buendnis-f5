@@ -4,11 +4,11 @@ published: true
 layout: publikation
 title: "Stellungnahme zur nationalen Rechenzentrumsstrategie "
 subtitle:  
-link: 
+link: assets/data/Buendnis F5_BMDS Konsultation Rechenzentren_19.09.25.pdf
 date: 2025-09-24
 categories: Stellungnahme
 authors: ["Julian Bothe, Ben Burmeister, Jan-David Franke, Lara Mieg"]
-file: assets/data/Buendnis F5_BMDS Konsultation Rechenzentren_19.09.25.pdf
+file: 
     format: pdf
     url: assets/data/Buendnis F5_BMDS Konsultation Rechenzentren_19.09.25.pdf
 rss:
