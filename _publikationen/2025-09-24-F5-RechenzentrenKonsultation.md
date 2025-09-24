@@ -3,13 +3,13 @@ published: true
 layout: publikation
 title: "Stellungnahme zur nationalen Rechenzentrumsstrategie "
 subtitle:  
-link: /assets/data/250919_F5_BMDS_Konsultation_Rechenzentren.pdf
+link: ../assets/data/250919_F5_BMDS_Konsultation_Rechenzentren.pdf
 date: 2025-09-24
 categories: Stellungnahme
 authors: ["Bündnis F5"]
 file: 
     format: pdf
-    url: /assets/data/250919_F5_BMDS_Konsultation_Rechenzentren.pdf
+    url: ../assets/data/250919_F5_BMDS_Konsultation_Rechenzentren.pdf
 rss:
 pages: 8
 size: 270,6 kb
