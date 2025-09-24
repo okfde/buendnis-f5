@@ -3,13 +3,13 @@ published: true
 layout: publikation
 title: "Digitalpolitik für eine starke Demokratie - Bündnis F5 unterstützt Aktionstag gegen Rechtsextremismus"
 subtitle:  
-link: assets/data/250919_F5_BMDS_Konsultation_Rechenzentren.pdf
+link: assets/data/2024-02-11-F5-ResilienteDemokratie.pdf
 date: 2024-02-01
 categories: Sonstiges
 authors: ["Bündnis F5"]
 file:
     format: pdf
-    url: assets/data/250919_F5_BMDS_Konsultation_Rechenzentren.pdf
+    url: assets/data/2024-02-11-F5-ResilienteDemokratie.pdf
 rss:
 pages: 2
 size: 
