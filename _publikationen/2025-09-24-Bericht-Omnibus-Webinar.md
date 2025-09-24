@@ -56,17 +56,7 @@ Chancen für mehr Unabhängigkeit sieht er eher bei neuen Gesetzgebungsverfahren
 über mögliche „Buy European“-Klauseln bei öffentlichen Ausschreibungen.
 
 ##### Ausblick
-Aus Sicht von F5 ist für das digitale Omnibusgesetz zentral, dass erst kürzlich
-gefundenen Regelungen im Zuge des Digitalen Omnibusverfahrens nicht grundlegend
-abgeschwächt werden. Stattdessen sollen sie ihren ursprünglichen Zweck immer noch
-erkennbar erfüllen und unter anderem dazu dienen, dass Online-Plattformen stärker im
-Sinne ihrer Nutzenden gestaltet werden, dass Menschen Autonomie über ihre persönlichen
-Daten ausüben können und, dass die Auswirkungen einflussreicher KI-Systeme auf die
-Gesellschaft durch erste Transparenzpflichten und Standards für die Öffentlichkeit
-nachvollziehbar werden. Schutzstandards sollten entsprechend nicht zugunsten von
-vermeintlicher Wettbewerbsfähigkeit abgebaut werden. In langjährigen Prozessen
-ausgearbeitete und kürzlich beschlossene Gesetze wieder aufzuschnüren, widerspräche,
-wie auch Kai Zenner im Gespräch betonte, grundlegenden demokratischen Prinzipien.
+Aus Sicht von F5 ist zentral, dass erst kürzlich gefundenen Regelungen im Zuge des Digitalen Omnibusverfahrens nicht grundlegend abgeschwächt werden. Stattdessen sollen sie ihren ursprünglichen Zweck immer noch erkennbar erfüllen und unter anderem dazu dienen, dass Online-Plattformen stärker im Sinne ihrer Nutzenden gestaltet werden, dass Menschen Autonomie über ihre persönlichen Daten ausüben können und, dass die Auswirkungen einflussreicher KI-Systeme auf die Gesellschaft durch erste Transparenzpflichten und Standards für die Öffentlichkeit nachvollziehbar werden. Schutzstandards sollten entsprechend nicht zugunsten von vermeintlicher Wettbewerbsfähigkeit abgebaut werden. In langjährigen Prozessen ausgearbeitete und kürzlich beschlossene Gesetze wieder aufzuschnüren, widerspräche, wie auch Kai Zenner im Gespräch betonte, grundlegenden demokratischen Prinzipien.
 
 Es braucht jetzt eine **ambitionierte und langfristig gedachte Vision einer digitalen
 Gesellschaft und Zukunft**, die gemeinwohlorientiert ist und auf die europäische und
