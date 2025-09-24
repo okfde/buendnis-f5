@@ -12,6 +12,8 @@ license:
     url: 
 --- 
 
+
+##### Online-Briefing zum Digitalen Omnibus der EU-Kommission mit Kai Zenner
 Am 27. August lud das Bündnis F5 zu einem Online-Briefing ein, um über das geplante
 **digitale Omnibuspaket** der Europäischen Kommission zu diskutieren. Ziel der
 Veranstaltung war es, mehr Klarheit über mögliche Änderungen bestehender
