@@ -19,3 +19,7 @@ license:
     url: https://creativecommons.org/licenses/by-sa/4.0/
 ---
 
+Bei der physischen digitalen Infrastruktur befindet sich Deutschland gegenwärtig in einem problematischen Abhängigkeitsverhältnis zu einer kleinen Anzahl an Technologiekonzernen. In dieser schwierigen Ausgangslage liegt jedoch auch eine große Chance: Der Weg zu einem **„zukunftsfähigen und leistungsfähigen Rechenzentrumsstandort Deutschland 2030”** hat das Potenzial, die Grundlage für einen umfassenden Wandel in der Digitalpolitik zu legen. 
+
+Ein zukunftsfähiger Rechenzentrumsstandort darf sich nicht in der Reaktion auf bestehende Abhängigkeiten erschöpfen, sondern muss proaktiv ein neues Zielbild etablieren. Statt lediglich Probleme zu beheben, gilt es, Grundlagen für eine **offene, kollaborative und selbstbestimmte digitale Gesellschaft zu schaffen, die Nachhaltigkeit und Grundrechte achtet**. Was dafür nötig ist, hat das Bündnis F5 in seiner Stellungnahme ausgearbeitet. 
+
