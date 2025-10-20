@@ -20,10 +20,10 @@ license:
 
 Das digitale Omnibuspaket bietet die Chance, das EU-Digitalrecht zu vereinfachen.
 Damit diese Reform nicht zu einer Schwächung der Grundrechte führt, sollte der
-Fokus auf der konsequenten Durchsetzung und kohärenten Anwendung des
-bestehenden Rechtsrahmens liegen. Ein interoperabler Ansatz kann
+**Fokus auf der konsequenten Durchsetzung und kohärenten Anwendung des
+bestehenden Rechtsrahmens liegen**. Ein interoperabler Ansatz kann
 Überschneidungen verringern und gleichzeitig klare Zuständigkeiten und
-Schutzstandards bewahren. Ziel sollte Kompatibilität statt Umkehrung sein:
+Schutzstandards bewahren. **Ziel sollte Kompatibilität statt Umkehrung sein**:
 Bestehende Regeln besser verzahnen, anstatt sie aufzuweichen oder gegeneinander
 auszuspielen. Die Bundesregierung kann mit dieser Haltung als konstruktive Stimme
 auftreten, die sich für Vertrauen und Rechtssicherheit stark macht.
