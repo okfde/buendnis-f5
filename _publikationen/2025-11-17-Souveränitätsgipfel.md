@@ -4,7 +4,7 @@ layout: publikation
 title: "Souveränitätsgipfel: Abhängigkeiten endlich wirksam reduzieren"
 subtitle:  
 link: ../assets/data/251117_F5-Gipfel.pdf
-date: 2025-10-14
+date: 2025-11-17
 categories: Pressemitteilung
 authors: ["Bündnis F5"]
 file: 
