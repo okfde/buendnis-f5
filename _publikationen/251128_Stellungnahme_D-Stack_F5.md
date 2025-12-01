@@ -3,13 +3,13 @@ published: true
 layout: publikation
 title: "Stellungnahme zum Deutschland-Stack"
 subtitle:  
-link: ../assets/data/251128_Stellungnahme%20D-Stack%20F5.pdf
+link: ../assets/data/251128_Stellungnahme D-Stack F5.pdf
 date: 2025-11-28
 categories: Stellungnahme
 authors: ["Bündnis F5"]
 file: 
     format: pdf
-    url: ../assets/data/251128_Stellungnahme%20D-Stack%20F5.pdf
+    url: ../assets/data/251128_Stellungnahme D-Stack F5.pdf
 rss:
 pages: 10
 size: 277 kb
