@@ -9,7 +9,7 @@ categories: Stellungnahme
 authors: ["Bündnis F5"]
 file: 
     format: pdf
-    url: ../assets/data/51128_Stellungnahme D-Stack F5.pdf
+    url: ../assets/data/51128_Stellungnahme%20D-Stack%20F5.pdf
 rss:
 pages: 10
 size: 277 kb
