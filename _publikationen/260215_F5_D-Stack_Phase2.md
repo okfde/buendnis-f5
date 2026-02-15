@@ -18,4 +18,4 @@ license:
     url: https://creativecommons.org/licenses/by-sa/4.0/
 ---
 
-Das Bündnis F5 sieht im Deutschland-Stack-Konzeptpapier zwar anerkannte technische Standards, vermisst aber ein zusammenhängendes IT-Architekturbild. Die zentrale Forderung: Erfolgreiche Digitalisierung erfordert eine systematische Erhebung tatsächlicher Bedarfe statt einer reinen Auflistung von Technologiestandards.
+Das Bündnis F5 sieht im Deutschland-Stack-Konzeptpapier zwar anerkannte technische Standards, vermisst aber ein zusammenhängendes IT-Architekturbild. Unsere zentrale Forderung zum Deutschland-Stack: Erfolgreiche Digitalisierung erfordert eine systematische Erhebung tatsächlicher Bedarfe statt einer reinen Auflistung von Technologiestandards.
