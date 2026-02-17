@@ -4,7 +4,7 @@ layout: publikation
 title: "Zweite Stellungnahme zum Digitalen Omnibuspaket der EU-Kommission"
 subtitle:  
 link: ../assets/data/260213_F5_OmnibusKommentierung.pdf
-date: 2026-02-18
+date: 2026-02-17
 categories: Stellungnahme
 authors: ["Bündnis F5"]
 file: 
