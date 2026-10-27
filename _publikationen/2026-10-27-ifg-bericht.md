@@ -14,7 +14,7 @@ license:
 Das Informationsfreiheitsgesetz (IFG) des Bundes besteht de facto seit 20 Jahren. Es hat den Zugang zu staatlichen Informationen erleichtert und damit neue Möglichkeiten für Bürger:innen, Journalist:innen, Wissenschaft, Zivilgesellschaft und Wirtschaft geschaffen, staatliches Handeln nachzuvollziehen und kritisch zu begleiten. Doch die aktuellen Pläne des Koalitionsausschusses stellen infrage, wie weit dieses Recht künftig noch reichen soll. 
 Zu diesem Thema veranstaltete das Bündnis F5 am 9.10. sein dreizehntes parlamentarisches Frühstück, diesmal unter der gemeinsamen Schirmherrschaft drei Abgeordneter der SPD-Bundestagsfraktion: Johannes Schätzl, digitalpolitischer Sprecher, Carmen Wegge, rechtspolitische Sprecherin, und Sebastian Fiedler, innenpolitischer Sprecher. 
 
-{% include ccbyscaled.html file="2026-10-27-ifg-bericht.jpg" alt="Foto des parlamentarischen Frühstücks" caption="Foto des parlamentarischen Frühstücks" author="Alina Casanova"%}
+{% include cc0scaled.html file="2026-10-27-ifg-bericht.jpg" alt="Foto des parlamentarischen Frühstücks" caption="Foto des parlamentarischen Frühstücks" author="Alina Casanova"%}
 
 Im Mittelpunkt der Veranstaltung stand die Frage, wie es um die Zukunft der Informationsfreiheit in Deutschland bestellt ist. Unter dem Titel „Informationsfreiheit unter Druck: Rückkehr des Amtsgeheimnisses?“ diskutierten die Teilnehmenden die aktuellen Reformpläne der Bundesregierung und ihre möglichen Folgen für demokratische Kontrolle, journalistische Recherche und zivilgesellschaftliches Engagement. Moderiert wurde das Frühstück von Dr. Henriette Litta, Geschäftsführerin der Open Knowledge Foundation Deutschland.
 
