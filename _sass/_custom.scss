@@ -468,17 +468,17 @@ address {
   }
   
  &-image {
-    width: 75%;
-    margin: 1.5rem 0;
+    width: 50%;
+    margin: 1.5rem auto;
 
     & img {
       display: block;
-      width: 75%;
+      width: 100%;
       height: auto;
     }
 
     & figcaption {
-      width: 75%;
+      width: 100%;
     }
   }
   
