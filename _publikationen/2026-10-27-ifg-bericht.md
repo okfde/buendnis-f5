@@ -1,0 +1,43 @@
+---
+published: true
+layout: publikation
+title: Parlamentarisches Frühstück zum Informationsfreiheitsgesetz
+subtitle: 
+link: 
+date: 2026-10-27
+categories: Veranstaltungsbericht
+authors: ["Alina Casanova"]
+license:
+    type: CC-BY-SA 4.0
+    url: https://creativecommons.org/licenses/by-sa/4.0/
+---
+Das Informationsfreiheitsgesetz (IFG) des Bundes besteht de facto seit 20 Jahren. Es hat den Zugang zu staatlichen Informationen erleichtert und damit neue Möglichkeiten für Bürger*innen, Journalist*innen, Wissenschaft, Zivilgesellschaft und Wirtschaft geschaffen, staatliches Handeln nachzuvollziehen und kritisch zu begleiten. Doch die aktuellen Pläne des Koalitionsausschusses stellen infrage, wie weit dieses Recht künftig noch reichen soll. 
+Zu diesem Thema veranstaltete das Bündnis F5 am 9.10. sein dreizehntes parlamentarisches Frühstück, diesmal unter der gemeinsamen Schirmherrschaft drei Abgeordneter der SPD-Bundestagsfraktion: Johannes Schätzl, digitalpolitischer Sprecher, Carmen Wegge, rechtspolitische Sprecherin, und Sebastian Fiedler, innenpolitischer Sprecher. 
+
+{% include ccbysaimage.html file="2026-10-27-ifg-bericht.jpg" alt="Foto des parlamentarischen Frühstücks" caption="Foto des parlamentarischen Frühstücks" author="Alina Casanova"%}
+
+Im Mittelpunkt der Veranstaltung stand die Frage, wie es um die Zukunft der Informationsfreiheit in Deutschland bestellt ist. Unter dem Titel „Informationsfreiheit unter Druck: Rückkehr des Amtsgeheimnisses?“ diskutierten die Teilnehmenden die aktuellen Reformpläne der Bundesregierung und ihre möglichen Folgen für demokratische Kontrolle, journalistische Recherche und zivilgesellschaftliches Engagement. Moderiert wurde das Frühstück von Dr. Henriette Litta, Geschäftsführerin der Open Knowledge Foundation Deutschland.
+
+#### Reformpläne mit weitreichenden Folgen
+
+Jan David Franke, Referent bei Wikimedia Deutschland, ordnete in seinem Input die geplanten Änderungen ein und machte deutlich, wie vielfältig der Nutzen des IFG ist. Informationsfreiheit ist keineswegs ein Nischenrecht für spezialisierte Journalist*innen oder einzelne zivilgesellschaftliche Organisationen. Sie ermöglicht es Bürger*innen, Verwaltungshandeln nachzuvollziehen, unterstützt investigative Recherchen, stärkt gemeinwohlorientierte Projekte wie die Wikipedia und schafft auch für Wirtschaft und Verwaltung einen Mehrwert durch verlässliche Informationen und nachvollziehbare Entscheidungsprozesse. Die diskutierten Reformvorhaben drohen diesen Zugang erheblich einzuschränken. 
+Zu den im Raum stehenden Änderungen zählen die Einführung eines „berechtigten Interesses“ als zusätzliche Voraussetzung für Informationszugänge, die Abschaffung des Gebührendeckels, eine stärkere Subsidiarität, neue Bereichsausnahmen sowie der Ausschluss juristischer Personen. Auch die pauschale Schwärzung von Namen und eine Einschränkung des Kreises der Antragsberechtigten würden die praktische Nutzung des Gesetzes erschweren. 
+
+#### Kritische Infrastrukturen schützen, ohne Transparenz aufzugeben
+Die Bundesregierung bezieht sich in ihren Reformplänen zentral auf den Schutz kritscher Infrastrukturen. In der Diskussion wurde dieser Darstellung deutlich widersprochen. Das IFG sieht bereits gesetzliche Ausnahmen vor, wenn schutzwürdige Interessen einer Veröffentlichung entgegenstehen. Ein zusätzlicher, pauschaler Rückbau der Informationsfreiheit ist daher nicht zwangsläufig erforderlich, um sensible Informationen zu schützen. Zudem macht Geheimhaltung kritische Infrastrukturen nicht automatisch resilienter. Wer Transparenz grundsätzlich als Sicherheitsrisiko behandelt, läuft Gefahr, auch jene Informationen zurückzuhalten, die notwendig wären, um Missstände zu erkennen und strukturelle Schwachstellen offenzulegen. 
+
+#### Bürokratieabbau darf demokratische Kontrolle nicht schwächen
+Auch der von der Bundesregierung angeführte bürokratische Aufwand wurde kritisch beleuchtet. Die Bearbeitung von IFG-Anfragen bindet Ressourcen in der Verwaltung, ja. Daraus folgt jedoch nicht, dass das Recht auf Informationszugang eingeschränkt werden sollte. Demokratische Rechenschaft ist keine freiwillige Zusatzaufgabe des Staates, sondern gehört zu seinen grundlegenden Pflichten. Das IFG macht zudem häufig bereits bestehende Defizite in Verwaltungsabläufen sichtbar, statt diese erst hervorzurufen. Wenn Anfragen auf unvollständige Unterlagen, schwer nachvollziehbare Entscheidungsprozesse oder mangelnde digitale Zugänglichkeit stoßen, ist das zunächst ein Hinweis auf Verbesserungsbedarf in der Verwaltung. Hier ist es die Aufgabe des Staates, die Verwaltungsprozesse zu modernisieren, Informationen systematisch digital verfügbar zu machen und die Veröffentlichung staatlicher Dokumente von vornherein mitzudenken, statt sich in die Geheimhaltung gegenüber Bürger*innen zu flüchten.
+
+#### Was Informationsfreiheit für journalistische Recherche bedeutet
+Wie unverzichtbar das IFG in der journalistischen Praxis ist, verdeutlichte Daniel Drepper, investigativer Journalist und Vorsitzender von Netzwerk Recherche, im zweiten Input des Frühstücks. Gerade für jüngere Kolleg*innen ist das IFG ein wichtiges Werkzeug, um eigenständig an Dokumente zu gelangen, staatliche Entscheidungen zu überprüfen und Recherchen auf eine belastbare Quellenbasis zu stellen. In der Praxis ist der Zugang jedoch häufig mit erheblichen Hürden verbunden. Anfragen werden mitunter stark verzögert bearbeitet, zahlreiche Ausnahmen erschweren die Herausgabe von Dokumenten, und nur vergleichsweise wenige Redaktionen nutzen ihre Rechte konsequent oder sind bereit, deren Durchsetzung notfalls gerichtlich einzufordern. Nicht selten müssen Journalist*innen deshalb auf das Presserecht zurückgreifen, um an Informationen zu gelangen.
+
+Ein Praxisbeispiel, wie wertvoll das IFG für investigative Recherchen sein kann, zeigt das Beispiel der Recherche zu PFAS, einer Gruppe langlebiger chemischer Substanzen. Durch Anfragen in verschiedenen europäischen Ländern konnten Informationen zum selben Themenkomplex zusammengetragen und Zusammenhänge sichtbar gemacht werden, die andernfalls kaum in dieser Form nachvollziehbar gewesen wären. Die Dokumente ermöglichten es, Lobbyismus offenzulegen und die Einflussnahme unterschiedlicher Akteure genauer zu untersuchen. Durch die Veröffentlichung der Originalunterlagen wurde außerdem transparent nachvollziehbar, auf welcher Grundlage die journalistischen Erkenntnisse beruhten. Die Ergebnisse konnten so nicht nur einem breiten Publikum zugänglich gemacht, sondern auch im politischen und sogar im wissenschaftlichen Raum weiterverwendet werden.
+Darin liegt eine wesentliche Stärke der Informationsfreiheit: Sie schafft eine überprüfbare Grundlage für öffentliche Debatten. Journalist*innen müssen ihre Erkenntnisse nicht allein auf Aussagen von Informant*innen oder anonymen Quellen stützen, sondern können Dokumente vorlegen, anhand derer sich staatliches Handeln und politische Entscheidungen selbst nachvollziehen lassen. Ohne Zugang zu Originaldokumenten würde es schwieriger, journalistische Erkenntnisse unabhängig zu überprüfen. Das könnte langfristig das Vertrauen in Medien und öffentliche Berichterstattung schwächen. 
+
+#### Mehr Transparenz statt Rückkehr zum Amtsgeheimnis
+
+Eine faktische Abschaffung der Informationsfreiheit auf Bundesebene würde die Möglichkeiten demokratischer Kontrolle erheblich schwächen. Ausgerechnet in einer Zeit, in der das Vertrauen in Staat und Politik unter Druck steht. Ein Staat, der von seinen Bürger*innen Transparenz durch geplante Überwachungsbefugnisse erwartet, sich selbst aber zunehmend der öffentlichen Nachvollziehbarkeit entzieht, gerät in einen grundlegenden Widerspruch zu demokratischen Prinzipien. Eine lebendige Demokratie braucht einen Staat, der sich erklären lässt, seine Entscheidungen nachvollziehbar macht und öffentliche Kontrolle als selbstverständlichen Bestandteil seines Handelns begreift. Informationsfreiheit ist dafür kein bürokratisches Hindernis, sondern eine grundlegende Voraussetzung.
+
+Die Diskussion machte deutlich, dass die geplanten Einschränkungen weit über technische Fragen der Gesetzesgestaltung hinausgehen. Im Kern geht es um das Verhältnis zwischen Staat und Gesellschaft: Wie viel Einblick muss staatliches Handeln ermöglichen, damit demokratische Kontrolle tatsächlich stattfinden kann? Und wie lässt sich Vertrauen in staatliche Institutionen stärken und ehrenamtliches Engagement fördern, wenn der Zugang zu Informationen erschwert wird?
+Das Bündnis F5 fordert: keine weiteren Einschränkungen des bestehenden Informationsfreiheitsgesetzes. Stattdessen muss dieses weiter zu einem Transparenzgesetz entwickelt werden, um Demokratie, Vertrauen in den Staat und ehrenamtliches Engagement zu stärken.
