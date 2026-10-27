@@ -466,7 +466,22 @@ address {
       color: $black;
     }
   }
+  
+ &-image {
+    width: 100%;
+    margin: 1.5rem 0;
 
+    & img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    & figcaption {
+      width: 100%;
+    }
+  }
+  
   &-extra {
     margin-top: 2rem;
 
