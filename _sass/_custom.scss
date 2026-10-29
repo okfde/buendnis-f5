@@ -690,6 +690,13 @@ footer {
   }
 }
 
+.img-responsive-height {
+    height: 122px;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    margin-right: 3rem;
+}
 // Buttons
 
 .button-start {
